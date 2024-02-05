@@ -17,7 +17,7 @@ const faqs = [
     {
       question: 'How do I apply to join BackStory?',
       answer:
-        'To become a member of the BackStory team, first join our Discord server and visit our admissions channel.',
+        'To become a member of the BackStory team, first join our <a href="https://discord.gg/JqRwbMdnvP" target="_blank">Discord server</a> and visit our admissions channel.',
     },
   ],
   [
