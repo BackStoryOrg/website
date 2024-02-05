@@ -6,7 +6,7 @@ export function Logo(props: React.ComponentPropsWithoutRef<'img'>) {
   return (
 
     <Image
-      className={className}
+      className={props.className}
       src={logoImage}
       alt=""
       width={83}
