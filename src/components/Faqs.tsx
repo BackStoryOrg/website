@@ -81,7 +81,7 @@ export function Faqs() {
             Frequently asked questions
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            Here are a few of our frequently asked questions. If you can&apos;t find what you're
+            Here are a few of our frequently asked questions. If you can&apos;t find what you&apos;re
             looking for, reach out to us on our <a href="https://discord.gg/JqRwbMdnvP" target="_blank">Discord server</a>.
           </p>
         </div>
