@@ -6,37 +6,37 @@ import backgroundImage from '@/images/background-faqs.jpg'
 const faqs = [
   [
     {
-      question: 'Does TaxPal handle VAT?',
+      question: 'Can I join BackStory?',
       answer:
-        'Well no, but if you move your company offshore you can probably ignore it.',
+        'Yes, you can. We welcome new authors, editors and world builders into our ranks all the time.',
     },
     {
-      question: 'Can I pay for my subscription via purchase order?',
-      answer: 'Absolutely, we are happy to take your money in all forms.',
+      question: 'Do I have to pay to be a member?',
+      answer: 'There is no charge to join our team, neither a one-off nor recurring charge.',
     },
     {
-      question: 'How do I apply for a job at TaxPal?',
+      question: 'How do I apply to join BackStory?',
       answer:
-        'We only hire our customers, so subscribe for a minimum of 6 months and then let’s talk.',
+        'To become a member of the BackStory team, first join our Discord server and visit our admissions channel.',
     },
   ],
   [
     {
-      question: 'What was that testimonial about tax fraud all about?',
+      question: 'Can I write any story I want?',
       answer:
-        'TaxPal is just a software application, ultimately your books are your responsibility.',
+        'Stories published about BackStory worlds are managed by a world&#39;s management team. You need to consult with the relevant people before a story starts to be developed and written.',
     },
     {
       question:
-        'TaxPal sounds horrible but why do I still feel compelled to purchase?',
+        'What genres are accepted?',
       answer:
-        'This is the power of excellent visual design. You just can’t resist it, no matter how poorly it actually functions.',
+        'We publish all genres of fiction from romance and crime, through to horror and thrillers.',
     },
     {
       question:
-        'I found other companies called TaxPal, are you sure you can use this name?',
+        'What settings do BackStory worlds have?',
       answer:
-        'Honestly not sure at all. We haven’t actually incorporated or anything, we just thought it sounded cool and made this website.',
+        'Each BackStory world has its own setting. These can range from soft fantasy, to hard fantasy, sci-fi and even steampunk!',
     },
   ],
   [
@@ -81,8 +81,8 @@ export function Faqs() {
             Frequently asked questions
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            If you can’t find what you’re looking for, email our support team
-            and if you’re lucky someone will get back to you.
+            Here are a few of our frequently asked questions. If you can't find what you're
+            looking for, reach out to us on our <a href="https://discord.gg/JqRwbMdnvP" target="_blank">Discord server</a>.
           </p>
         </div>
         <ul
