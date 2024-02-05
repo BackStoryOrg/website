@@ -17,14 +17,14 @@ const faqs = [
     {
       question: 'How do I apply to join BackStory?',
       answer:
-        'To become a member of the BackStory team, first join our <a href="https://discord.gg/JqRwbMdnvP" target="_blank">Discord server</a> and visit our admissions channel.',
+        'To become a member of the BackStory team, first join our Discord server and visit our admissions channel.',
     },
   ],
   [
     {
       question: 'Can I write any story I want?',
       answer:
-        'Stories published about BackStory worlds are managed by a world&#39;s management team. You need to consult with the relevant people before a story starts to be developed and written.',
+        "Stories published about BackStory worlds are managed by a world's management team. You need to consult with the relevant people before a story starts to be developed and written.",
     },
     {
       question:
@@ -36,23 +36,23 @@ const faqs = [
       question:
         'What settings do BackStory worlds have?',
       answer:
-        'Each BackStory world has its own setting. These can range from soft fantasy, to hard fantasy, sci-fi and even steampunk!',
+        'Each BackStory world has its own setting. These can range from soft fantasy, to hard fantasy, soft sci-fi, hard sci-fi and even steampunk!',
     },
   ],
   [
     {
-      question: 'How do you generate reports?',
+      question: '',
       answer:
-        'You just tell us what data you need a report for, and we get our kids to create beautiful charts for you using only the finest crayons.',
+        '',
     },
     {
-      question: 'Can we expect more inventory features?',
-      answer: 'In life it’s really better to never expect anything at all.',
+      question: '',
+      answer: '',
     },
     {
-      question: 'I lost my password, how do I get into my account?',
+      question: '',
       answer:
-        'Send us an email and we will send you a copy of our latest password spreadsheet so you can find your information.',
+        '',
     },
   ],
 ]
@@ -82,7 +82,7 @@ export function Faqs() {
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
             Here are a few of our frequently asked questions. If you can&apos;t find what you&apos;re
-            looking for, reach out to us on our <a href="https://discord.gg/JqRwbMdnvP" target="_blank">Discord server</a>.
+            looking for, reach out to us on our <a href="https://discord.gg/JqRwbMdnvP" target="_blank">Discord server</a> (https://discord.gg/JqRwbMdnvP).
           </p>
         </div>
         <ul
