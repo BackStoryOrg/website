@@ -21,15 +21,34 @@ export function CallToAction() {
       <Container className="relative">
         <div className="mx-auto max-w-lg text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-            Get started today
+            Want to know more?
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            It’s time to take control of your books. Buy our software so you can
-            feel like you’re doing something productive.
+            Register your interest in our project by sharing your email address with us. Use the form below.
           </p>
-          <Button href="/register" color="white" className="mt-10">
-            Get 6 months free
-          </Button>
+          <div>
+            <form name="contact" netlify>
+              <label htmlFor="email" className="block text-sm font-medium leading-6 text-gray-900">
+                Email
+              </label>
+              <div className="relative mt-2 rounded-md shadow-sm">
+                <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
+                  <EnvelopeIcon className="h-5 w-5 text-gray-400" aria-hidden="true" />
+                </div>
+                <input
+                  type="email"
+                  name="email"
+                  id="email"
+                  className="block w-full rounded-md border-0 py-1.5 pl-10 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
+                  placeholder="you@example.com"
+                />
+                <button
+                  type="submit"
+                  className="rounded bg-indigo-600 px-2 py-1 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                >
+              </div>
+            </form>
+            </div>
         </div>
       </Container>
     </section>
