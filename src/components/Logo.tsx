@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import logoImage from '@/images/logo50.png'
 
-export function Logo() {
+export function Logo(props: React.ComponentPropsWithoutRef) {
   return (
 
     <Image
