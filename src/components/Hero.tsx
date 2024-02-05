@@ -22,7 +22,7 @@ export function Hero() {
         and story-writing.
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-        We're a tight-knit team of world builders and story writers building worlds and publishing stories about them.
+        We are a tight-knit team of world builders and story writers building worlds and publishing stories about them.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#">Coming Soon</Button>
