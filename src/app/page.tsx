@@ -14,8 +14,8 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
-        <CallToAction />
         <Faqs />
+        <CallToAction />
       </main>
       <Footer />
     </>
