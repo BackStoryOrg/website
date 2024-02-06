@@ -26,7 +26,7 @@ export function CallToAction() {
           <p className="mt-4 text-lg tracking-tight text-white">
             Sign up to receive news about the progress of our project and how you can get involved!
           </p>
-          <form>
+          <form name="contact" method="post" netlify>
             
           </form>
         </div>
