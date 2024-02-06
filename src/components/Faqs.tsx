@@ -41,13 +41,13 @@ const faqs = [
   ],
   [
     {
-      question: '',
+      question: 'If I write for BackStory can I be published?',
       answer:
-        '',
+        'All stories written for BackStory worlds are automatically published. If you work with us you will be published.',
     },
     {
-      question: '',
-      answer: '',
+      question: 'Can I earn from my work on BackStory?',
+      answer: 'Whether you are a writer, editor or builder you can earn money from your work in the BackStory universe.',
     },
     {
       question: '',
