@@ -47,7 +47,7 @@ const faqs = [
     },
     {
       question: 'Can I earn from my work on BackStory?',
-      answer: 'Whether you are a writer, editor or builder you can earn money from your work in the BackStory universe.',
+      answer: 'Whether you are a writer, editor or builder you can earn money from your work in the BackStory universe. We operate a granular revenue-sharing system by which, all team members who contribute to the creation, writing, editing and building of a story earn revenue through sales commission.',
     },
     {
       question: '',
