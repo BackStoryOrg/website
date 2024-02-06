@@ -25,8 +25,7 @@ export function CallToAction() {
           <p className="mt-4 text-lg tracking-tight text-white">
             Sign up to receive news about the progress of our project and how you can get involved!
           </p>
-          <hr>
-          <form name="contact" method="post" data-netlify='true'>
+          <form name="contact" method="post" data-netlify='true' className="grid place-items-center">
             <div className="flex gap-4">
               <input 
                 className="h-12 min-w-[12rem] rounded-lg border-emerald-500 indent-4 text-emerald-900 shadow-lg focus:outline-none focus:ring focus:ring-emerald-600" 
