@@ -6,7 +6,9 @@ import backgroundImage from '@/images/background-call-to-action.jpg'
 
 export function CallToAction() {
   return (
-    <section className="relative overflow-hidden bg-blue-600 py-32">
+    <section 
+      className="relative overflow-hidden bg-blue-600 py-32"
+    >
       <Image
         className="absolute left-1/2 top-1/2 max-w-none -translate-x-1/2 -translate-y-1/2"
         src={backgroundImage}
@@ -34,7 +36,10 @@ export function CallToAction() {
                 autoComplete="email"
                 placeholder="Email" 
               />
-              <button className="h-12 min-w-[8rem] rounded-lg border-2 border-emerald-600 bg-emerald-500 text-emerald-50 shadow-lg hover:bg-emerald-600 focus:outline-none focus:ring focus:ring-emerald-600" type="submit">
+              <button 
+                className="h-12 min-w-[8rem] rounded-lg border-2 border-emerald-600 bg-emerald-500 text-emerald-50 shadow-lg hover:bg-emerald-600 focus:outline-none focus:ring focus:ring-emerald-600" 
+                type="submit"
+              >
                 Add Me!
               </button>
             </div>
