@@ -27,6 +27,7 @@ export function CallToAction() {
           </p>
           <hr className="my-3" />
           <form name="contact" method="post" data-netlify='true' className="grid place-items-center">
+            <input type="hidden" name="form-name" value="contact" />
             <div className="flex gap-4">
               <input 
                 className="h-12 min-w-[12rem] rounded-lg border-emerald-500 indent-4 text-emerald-900 shadow-lg focus:outline-none focus:ring focus:ring-emerald-600" 
