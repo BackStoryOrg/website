@@ -42,6 +42,7 @@ export function CallToAction() {
                 id="preference"
                 name="preference"
               >
+                <option value="">Interest</option>
                 <option value="manager">World Manager</option>
                 <option value="author">Author</option>
                 <option value="builder">Builder</option>
