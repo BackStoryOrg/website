@@ -41,7 +41,6 @@ export function CallToAction() {
                 className="h-12 min-w-[12rem] rounded-lg border-emerald-500 indent-4 text-emerald-900 shadow-lg focus:outline-none focus:ring focus:ring-emerald-600" 
                 id="preference"
                 name="preference"
-                placeholder="Preference"
               >
                 <option value="manager">World Manager</option>
                 <option value="author">Author</option>
