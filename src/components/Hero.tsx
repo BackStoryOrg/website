@@ -25,7 +25,8 @@ export function Hero() {
         We are a tight-knit team of world builders and story writers building worlds and publishing stories about them.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        Coming Soon
+        <div>Coming Soon</div>
+        <div>Don't forget to check out our <a href="https://medium.com/@backstory-app" target="_blank">blog</a> to learn more about what, how and why we do what we do.</div>
       </div>
     </Container>
   )
