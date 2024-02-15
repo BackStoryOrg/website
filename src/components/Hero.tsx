@@ -26,8 +26,11 @@ export function Hero() {
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <div>Coming Soon</div>
-        <div>Don&apos;t forget to check out our <a href="https://medium.com/@backstory-app" target="_blank">blog</a> to learn more about what, how and why we do what we do.</div>
       </div>
+      <div className="mt-5 flex justify-center gap-x-6">
+        <div>Don&apos;t forget to check out our <a href="https://medium.com/@backstory-app" target="_blank" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">blog</a> to learn more about what, how and why we do what we do.</div>
+      </div>
+
     </Container>
   )
 }
