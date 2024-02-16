@@ -6,18 +6,18 @@ import backgroundImage from '@/images/background-faqs.jpg'
 const faqs = [
   [
     {
-      question: 'Can I join BackStory?',
+      question: 'Can I work with BackStory?',
       answer:
-        'Yes, you can. We welcome new authors, editors and world builders into our ranks all the time.',
+        "Yes, you can. Our worlds' management teams are always on the look out for new aspiring creatives.",
     },
     {
-      question: 'Do I have to pay to be a member?',
-      answer: 'There is no charge to join our team, neither a one-off nor recurring charge.',
+      question: "Do I have to pay to join a world's team?",
+      answer: 'Absolutely not. In fact, you can earn sales commission on content that you have helped to create!',
     },
     {
-      question: 'How do I apply to join BackStory?',
+      question: 'How do I apply to work with BackStory?',
       answer:
-        'To become a member of the BackStory team, first join our Discord server and visit our admissions channel.',
+        'The best way to get started is to join our Discord server and announce yourself. You can find us at https://discord.gg/JqRwbMdnvP',
     },
   ],
   [
@@ -36,12 +36,12 @@ const faqs = [
       question:
         'What settings do BackStory worlds have?',
       answer:
-        'Each BackStory world has its own setting. These can range from soft fantasy, to hard fantasy, soft sci-fi, hard sci-fi and even steampunk!',
+        'Each BackStory world has its own setting. These can range from low fantasy, to high fantasy, soft sci-fi, hard sci-fi, dystopias and even steampunk and cyberpunk!',
     },
   ],
   [
     {
-      question: 'If I write for BackStory can I be published?',
+      question: 'If I write with BackStory can I be published?',
       answer:
         'All stories written for BackStory worlds are automatically published. If you work with us you will be published.',
     },
