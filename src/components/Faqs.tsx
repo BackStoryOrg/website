@@ -3,6 +3,7 @@ import Image from 'next/image'
 import { Container } from '@/components/Container'
 import backgroundImage from '@/images/background-faqs.jpg'
 
+
 const faqs = [
   [
     {
@@ -16,8 +17,8 @@ const faqs = [
     },
     {
       question: 'How do I apply to work with BackStory?',
-      answer:
-        'The best way to get started is to join our Discord server and announce yourself. You can find us at https://discord.gg/JqRwbMdnvP',
+      answer: 
+        'The best way to get started is to join our and announce yourself. You can find us at https://discord.gg/JqRwbMdnvP',
     },
   ],
   [
@@ -82,7 +83,7 @@ export function Faqs() {
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
             Here are a few of our frequently asked questions. If you can&apos;t find what you&apos;re
-            looking for, reach out to us on our <a href="https://discord.gg/JqRwbMdnvP" target="_blank">Discord server</a> (https://discord.gg/JqRwbMdnvP).
+            looking for, reach out to us on our <a href="https://discord.gg/JqRwbMdnvP" target="_blank"><p style={{color:'blue'}}> Discord server.</p></a>
           </p>
         </div>
         <ul
