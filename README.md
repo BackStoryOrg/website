@@ -1,7 +1,10 @@
 # website
+
 Landing page for backstory.ink
 
 ## Getting started
+
+### Local Install
 
 First install the npm dependencies:
 
@@ -13,6 +16,25 @@ Next, run the development server:
 
 ```bash
 npm run dev
+```
+
+Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
+
+### Docker
+
+Alternately, run the dockerfile locally to develop on your machine.  
+N.B. Docker must be installed on your system
+
+Open the project in a Terminal on the `website` directory. Build your docker image with:
+
+```bash
+docker build -t back-story_website .
+```
+
+When that has finished building, run the image:
+
+```bash
+docker build --rm -d -p 3000:3000 back-story_website
 ```
 
 Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
