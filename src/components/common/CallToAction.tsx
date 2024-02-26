@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 import { Button } from "@/components/common/Button";
-import { Container } from "@/components/Container";
+import { Container } from "@/components/common/Container";
 import backgroundImage from "@/images/background-call-to-action.jpg";
 
 export function CallToAction() {
