@@ -7,55 +7,55 @@ import backgroundImage from '@/images/background-faqs.jpg'
 const faqs = [
   [
     {
-      question: 'Can I work with BackStory?',
+      question: "Can I work with BackStory?",
       answer:
-        `Yes, you can. Our worlds' management teams are always on the look out for new aspiring creatives.`,
+        "Yes, you can. Our worlds' management teams are always on the look out for new aspiring creatives.",
     },
     {
       question: "Do I have to pay to join a world's team?",
       answer: 
-        `Absolutely not. In fact, you can earn sales commission on content that you have helped to create!'`
+        "Absolutely not. In fact, you can earn sales commission on content that you have helped to create!'"
     },
     {
-      question: 'How do I apply to work with BackStory?',
+      question: "How do I apply to work with BackStory?",
       answer: 
-        `The best way to get started is to join our <span style={{color:'blue'}}><a href="https://discord.gg/JqRwbMdnvP" target="_blank"> <u>Discord server</u></a></span> and announce yourself.`,
+        "The best way to get started is to join our <span style={{color:'blue'}}><a href='https://discord.gg/JqRwbMdnvP' target='_blank'> <u>Discord server</u></a></span> and announce yourself.",
     },
   ],
   [
     {
-      question: 'Can I write any story I want?',
+      question: "Can I write any story I want?",
       answer:
-        `Stories published about BackStory worlds are managed by a world's management team. You need to consult with the relevant people before a story starts to be developed and written.`,
+        "Stories published about BackStory worlds are managed by a world's management team. You need to consult with the relevant people before a story starts to be developed and written.",
     },
     {
       question:
-        'What genres are accepted?',
+        "What genres are accepted?",
       answer:
-        `We publish all genres of fiction from romance and crime, through to horror and thrillers.`,
+        "We publish all genres of fiction from romance and crime, through to horror and thrillers.",
     },
     {
       question:
-        'What settings do BackStory worlds have?',
+        "What settings do BackStory worlds have?",
       answer:
-        `Each BackStory world has its own setting. These can range from low fantasy, to high fantasy, soft sci-fi, hard sci-fi, dystopias and even steampunk and cyberpunk!`,
+        "Each BackStory world has its own setting. These can range from low fantasy, to high fantasy, soft sci-fi, hard sci-fi, dystopias and even steampunk and cyberpunk!",
     },
   ],
   [
     {
-      question: 'If I write with BackStory can I be published?',
+      question: "If I write with BackStory can I be published?",
       answer:
-        `All stories written for BackStory worlds are automatically published. If you work with us you will be published.`,
+        "All stories written for BackStory worlds are automatically published. If you work with us you will be published.",
     },
     {
-      question: 'Can I earn from my work on BackStory?',
+      question: "Can I earn from my work on BackStory?",
       answer: 
-        `Whether you are a writer, editor or builder you can earn money from your work in the BackStory universe. We operate a granular revenue-sharing system by which, all team members who contribute to the creation, writing, editing and building of a story earn revenue through sales commission.`,
+        "Whether you are a writer, editor or builder you can earn money from your work in the BackStory universe. We operate a granular revenue-sharing system by which, all team members who contribute to the creation, writing, editing and building of a story earn revenue through sales commission.",
     },
     {
-      question: '',
+      question: "",
       answer:
-      ``,
+      "",
     },
   ],
 ]
@@ -86,7 +86,7 @@ export function Faqs() {
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
             Here are a few of our frequently asked questions. If you can&apos;t find what you&apos;re
-            looking for, reach out to us on our <span style={{color:'blue'}}><a href="https://discord.gg/JqRwbMdnvP" target="_blank"> <u>Discord server.</u></a></span>
+            looking for, reach out to us on our <span style={{color:'blue'}}><a href='https://discord.gg/JqRwbMdnvP' target='_blank'> <u>Discord server.</u></a></span>
           </p>
         </div>
         <ul
