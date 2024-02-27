@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <Header />
       <main>
-  <Hero />
+        <Hero />
         <Faqs />
         <CallToAction />
       </main>
