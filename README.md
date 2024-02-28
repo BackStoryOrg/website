@@ -23,6 +23,10 @@ You can start editing this template by modifying the files in the `/src` folder.
 
 Main landing page info is [src/components/Hero.tsx](src/components/Hero.tsx)
 
+## Contributing
+
+Before submitting any Pull Requests or Commits, please be sure to run `npm run fix` to ensure your changes match our styling rules
+
 ## License
 
 This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
