@@ -1,6 +1,7 @@
 {
-  "name": "tailwindui-salient",
+  "name": "backstory-website",
   "version": "0.1.0",
+  "description": "Public facing website for BackStory",
   "private": true,
   "scripts": {
     "dev": "next dev",
