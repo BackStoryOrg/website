@@ -1,10 +1,8 @@
+import Image from "next/image";
+import logoImage from "@/images/logo50.png";
 
-import Image from 'next/image'
-import logoImage from '@/images/logo50.png'
-
-export function Logo(props: React.ComponentPropsWithoutRef<'img'>) {
+export function Logo(props: React.ComponentPropsWithoutRef<"img">) {
   return (
-
     <Image
       className={props.className}
       src={logoImage}
@@ -13,6 +11,5 @@ export function Logo(props: React.ComponentPropsWithoutRef<'img'>) {
       height={50}
       unoptimized
     />
-
-  )
+  );
 }

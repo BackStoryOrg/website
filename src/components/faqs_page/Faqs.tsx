@@ -1,8 +1,7 @@
-import Image from 'next/image'
+import Image from "next/image";
 
-import { Container } from '@/components/Container'
-import backgroundImage from '@/images/background-faqs.jpg'
-
+import { Container } from "@/components/common/Container";
+import backgroundImage from "@/images/background-faqs.jpg";
 
 const faqs = [
   [
@@ -13,12 +12,12 @@ const faqs = [
     },
     {
       question: "Do I have to pay to join a world's team?",
-      answer: 
-        "Absolutely not. In fact, you can earn sales commission on content that you have helped to create!'"
+      answer:
+        "Absolutely not. In fact, you can earn sales commission on content that you have helped to create!'",
     },
     {
       question: "How do I apply to work with BackStory?",
-      answer: 
+      answer:
         "The best way to get started is to join our <span style={{color:'blue'}}><a href='https://discord.gg/JqRwbMdnvP' target='_blank'> <u>Discord server</u></a></span> and announce yourself.",
     },
   ],
@@ -29,14 +28,12 @@ const faqs = [
         "Stories published about BackStory worlds are managed by a world's management team. You need to consult with the relevant people before a story starts to be developed and written.",
     },
     {
-      question:
-        "What genres are accepted?",
+      question: "What genres are accepted?",
       answer:
         "We publish all genres of fiction from romance and crime, through to horror and thrillers.",
     },
     {
-      question:
-        "What settings do BackStory worlds have?",
+      question: "What settings do BackStory worlds have?",
       answer:
         "Each BackStory world has its own setting. These can range from low fantasy, to high fantasy, soft sci-fi, hard sci-fi, dystopias and even steampunk and cyberpunk!",
     },
@@ -49,16 +46,15 @@ const faqs = [
     },
     {
       question: "Can I earn from my work on BackStory?",
-      answer: 
+      answer:
         "Whether you are a writer, editor or builder you can earn money from your work in the BackStory universe. We operate a granular revenue-sharing system by which, all team members who contribute to the creation, writing, editing and building of a story earn revenue through sales commission.",
     },
     {
       question: "",
-      answer:
-      "",
+      answer: "",
     },
   ],
-]
+];
 
 export function Faqs() {
   return (
@@ -76,8 +72,7 @@ export function Faqs() {
         unoptimized
       />
       <Container className="relative">
-        <div 
-          className="mx-auto max-w-2xl lg:mx-0">
+        <div className="mx-auto max-w-2xl lg:mx-0">
           <h2
             id="faq-title"
             className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl"
@@ -85,8 +80,14 @@ export function Faqs() {
             Frequently asked questions
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            Here are a few of our frequently asked questions. If you can&apos;t find what you&apos;re
-            looking for, reach out to us on our <span style={{color:'blue'}}><a href='https://discord.gg/JqRwbMdnvP' target='_blank'> <u>Discord server.</u></a></span>
+            Here are a few of our frequently asked questions. If you can&apos;t
+            find what you&apos;re looking for, reach out to us on our{" "}
+            <span style={{ color: "blue" }}>
+              <a href="https://discord.gg/JqRwbMdnvP" target="_blank">
+                {" "}
+                <u>Discord server.</u>
+              </a>
+            </span>
           </p>
         </div>
         <ul
@@ -101,8 +102,10 @@ export function Faqs() {
                     <h3 className="font-display text-lg leading-7 text-slate-900">
                       {faq.question}
                     </h3>
-                    <p  className="mt-4 text-sm text-slate-700"
-                        dangerouslySetInnerHTML={{ __html: faq.answer}}></p>
+                    <p
+                      className="mt-4 text-sm text-slate-700"
+                      dangerouslySetInnerHTML={{ __html: faq.answer }}
+                    ></p>
                   </li>
                 ))}
               </ul>
@@ -111,5 +114,5 @@ export function Faqs() {
         </ul>
       </Container>
     </section>
-  )
+  );
 }
