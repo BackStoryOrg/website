@@ -2,6 +2,7 @@ import Image from "next/image";
 
 import { Container } from "@/components/common/Container";
 import backgroundImage from "@/images/background-faqs.jpg";
+import { FaqList } from "@/components/faqs_page/FaqList";
 
 export function Faqs() {
   return (
@@ -37,7 +38,7 @@ export function Faqs() {
             </span>
           </p>
         </div>
-        FaqList()
+        <FaqList />
       </Container>
     </section>
   );
