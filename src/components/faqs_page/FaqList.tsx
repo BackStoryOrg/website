@@ -13,7 +13,7 @@ export function FaqList() {
               Can I work with BackStory?
             </h3>
             <p className="mt-4 text-sm text-slate-700">
-              Yes, you can. Our worlds' management teams are always on the look out for new aspiring creatives.
+              Yes, you can. Our worlds&apos; management teams are always on the look out for new aspiring creatives.
             </p>
           </li>
       </ul>
@@ -22,7 +22,7 @@ export function FaqList() {
       <ul role="list" className="flex flex-col gap-y-8">
           <li>
             <h3 className="font-display text-lg leading-7 text-slate-900">
-              Do I have to pay to join a world's team?
+              Do I have to pay to join a world&apos;s team?
             </h3>
             <p className="mt-4 text-sm text-slate-700">
               Absolutely not. In fact, you can earn sales commission on content that you have helped to create!
@@ -49,7 +49,7 @@ export function FaqList() {
             Can I write any story I want?
             </h3>
             <p className="mt-4 text-sm text-slate-700">
-              Stories published about BackStory worlds are managed by a world's management team. You need to consult with the relevant people before a story starts to be developed and written.
+              Stories published about BackStory worlds are managed by a world&apos;s management team. You need to consult with the relevant people before a story starts to be developed and written.
             </p>
           </li>
       </ul>
