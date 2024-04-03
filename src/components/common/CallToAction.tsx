@@ -30,7 +30,6 @@ export function CallToAction() {
             method="post"
             data-netlify="true"
             className="grid place-items-center"
-            data-netlify-recaptcha="true"
           >
             <input type="hidden" name="form-name" value="contact" />
             <div className="flex gap-4">
@@ -60,7 +59,6 @@ export function CallToAction() {
                 Add Me!
               </button>
             </div>
-            <div data-netlify-recaptcha="true"></div>
           </form>
         </div>
       </Container>
