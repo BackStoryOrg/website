@@ -1,5 +1,9 @@
 import Image from "next/image";
 import unsplash1 from "@/images/unsplash1.jpg";
+import unsplash2 from "@/images/unsplash2.jpg";
+import unsplash3 from "@/images/unsplash3.jpg";
+import unsplash4 from "@/images/unsplash4.jpg";
+import unsplash5 from "@/images/unsplash5.jpg";
 
 
 import { Container } from "@/components/common/Container";
@@ -49,7 +53,7 @@ export function Hero() {
               <div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
                 <div className="relative w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
                   <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                    We build multiverses!
+                    Create, Explore, Share Worlds, Be Published. Be Read.
                   </h1>
                   <p className="mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
                     Discover a new dimension of fictional storytelling with our creative world-building platform. Whether you are a seasoned author, editor, designer, or an enthusiast, our collaborative universe empowers you to craft immersive environments, intricate characters, captivating narratives and be read. 
@@ -79,36 +83,48 @@ export function Hero() {
                   </div>
                   <div className="mr-auto w-44 flex-none space-y-8 sm:mr-0 sm:pt-52 lg:pt-36">
                     <div className="relative">
-                      <img
-                        src="https://images.unsplash.com/photo-1485217988980-11786ced9454?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=528&q=80"
-                        alt=""
+                      <Image
                         className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
+                        src={unsplash2}
+                        alt=""
+                        width={80}
+                        height={528}
+                        unoptimized
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
                     <div className="relative">
-                      <img
-                        src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=focalpoint&fp-x=.4&w=396&h=528&q=80"
-                        alt=""
+                      <Image
                         className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
+                        src={unsplash3}
+                        alt=""
+                        width={80}
+                        height={528}
+                        unoptimized
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
                   </div>
                   <div className="w-44 flex-none space-y-8 pt-32 sm:pt-0">
                     <div className="relative">
-                      <img
-                        src="https://images.unsplash.com/photo-1670272504528-790c24957dda?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=left&w=400&h=528&q=80"
-                        alt=""
+                      <Image
                         className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
+                        src={unsplash4}
+                        alt=""
+                        width={80}
+                        height={528}
+                        unoptimized
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
                     <div className="relative">
-                      <img
-                        src="https://images.unsplash.com/photo-1670272505284-8faba1c31f7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=528&q=80"
-                        alt=""
+                      <Image
                         className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
+                        src={unsplash5}
+                        alt=""
+                        width={80}
+                        height={528}
+                        unoptimized
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
@@ -121,3 +137,11 @@ export function Hero() {
       </main>
   );
 }
+
+/*
+  Photo by <a href="https://unsplash.com/@aleskrivec?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ales Krivec</a> on <a href="https://unsplash.com/photos/three-brown-paddle-boats-on-body-of-water-h4ub7SSYxm0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  Photo by <a href="https://unsplash.com/@kerber?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marko Blažević</a> on <a href="https://unsplash.com/photos/yellow-pillar-candle-in-black-lantern-S7mAngnWV1A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  Photo by <a href="https://unsplash.com/@cantt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">cant</a> on <a href="https://unsplash.com/photos/white-clouds-hovering-above-grey-castle-Ipv_MNTzcQI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  Photo by <a href="https://unsplash.com/@linussandvide?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Linus Sandvide</a> on <a href="https://unsplash.com/photos/person-holding-torch-in-building-interior-5DIFvVwe6wk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  Photo by <a href="https://unsplash.com/@iamromankraft?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Roman Kraft</a> on <a href="https://unsplash.com/photos/vintage-books-collection-X1exjxxBho4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+*/
