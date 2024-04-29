@@ -18,14 +18,14 @@ export function CallToAction1() {
       <Container className="relative">
         <div className="mx-auto max-w-lg text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-            Want to join the hottest new thing in the fiction industry?
+            Want to join the future of fiction?
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
             Reach out to us with your preferred role and we will be in touch!
           </p>
           <hr className="my-3" />
           <form
-            name="contact"
+            name="contact1"
             method="post"
             data-netlify="true"
             className="grid place-items-center"

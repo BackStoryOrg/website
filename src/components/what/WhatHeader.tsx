@@ -3,7 +3,7 @@ const features = [
 
 
   {
-    name: 'No more writer&apos;s block',
+    name: "No more writer's block",
     description:
       'With thousands of years of history for each world, you will be finding storylines not having to come up with them. Fast-track your success and be a writing hero!',
     href: '#',
@@ -24,7 +24,7 @@ const features = [
 
 export function WhatHeader() {
   return (
-    <div className="bg-white py-24 sm:py-32">
+    <div className="bg-white py-24 sm:py-32" id="WhatHeader">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:text-center">
           <h2 className="text-base font-semibold leading-7 text-indigo-600">The future of fiction</h2>
