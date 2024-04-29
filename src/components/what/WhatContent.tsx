@@ -21,38 +21,29 @@ export function WhatContent() {
         </div>
         <div className="px-6 lg:contents">
           <div className="mx-auto max-w-2xl pb-24 pt-16 sm:pb-32 sm:pt-20 lg:ml-8 lg:mr-0 lg:w-full lg:max-w-lg lg:flex-none lg:pt-32 xl:w-1/2">
-            <p className="text-base font-semibold leading-7 text-indigo-600">Deploy faster</p>
-            <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A better workflow</h1>
+            <p className="text-base font-semibold leading-7 text-indigo-600">Achieve success</p>
+            <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A new perspective</h1>
             <p className="mt-6 text-xl leading-8 text-gray-700">
-              Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget
-              aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend
-              egestas fringilla sapien.
+              Writing and publishing, whether through traditional means or self-publishing is not designed for you to succeed. Your content, no matter how good it is, gets lost in the ether, due to over-competition.
             </p>
             <div className="mt-10 max-w-xl text-base leading-7 text-gray-700 lg:max-w-none">
               <p>
-                Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet
-                vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque
-                erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris
-                semper sed amet vitae sed turpis id.
+                At BackStory we publish all content created about our worlds on our own unique reading platform. No more content disappearing on Kindle, Kobo and Smashwords once it has been published. 
               </p>
               <ul role="list" className="mt-8 space-y-8 text-gray-600">
                 <li className="flex gap-x-3">
                   <span>
-                    <strong className="font-semibold text-gray-900">Push to deploy.</strong> Lorem ipsum, dolor sit amet
-                    consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate
-                    blanditiis ratione.
+                    <strong className="font-semibold text-gray-900">Readership analytics.</strong> Ever wanted to know who is reading your content so you can tailor future content to your audience? With BackStory you can do just that.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
                   <span>
-                    <strong className="font-semibold text-gray-900">SSL certificates.</strong> Anim aute id magna aliqua
-                    ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.
+                    <strong className="font-semibold text-gray-900">Teamwork.</strong> For each story being developed and written, a team of 4 creatives work together, each filling a specific role. The author, editor, builder and manager work collaboratively to create success.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
                   <span>
-                    <strong className="font-semibold text-gray-900">Database backups.</strong> Ac tincidunt sapien
-                    vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.
+                    <strong className="font-semibold text-gray-900">Managed worlds.</strong> Each of our worlds has a dedicated management team, who determine what content should be produced and when. We've removed the anarchy that can arise from shared worlds.
                   </span>
                 </li>
               </ul>
