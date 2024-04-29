@@ -43,7 +43,7 @@ export function WhatContent() {
                 </li>
                 <li className="flex gap-x-3">
                   <span>
-                    <strong className="font-semibold text-gray-900">Managed worlds.</strong> Each of our worlds has a dedicated management team, who determine what content should be produced and when. We've removed the anarchy that can arise from shared worlds.
+                    <strong className="font-semibold text-gray-900">Managed worlds.</strong> Each of our worlds has a dedicated management team, who determine what content should be produced and when. We have solved the anarchy that can arise from shared worlds.
                   </span>
                 </li>
               </ul>
