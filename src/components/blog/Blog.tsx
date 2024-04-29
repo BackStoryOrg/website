@@ -7,20 +7,19 @@ export function Blog() {
   const [error, setError] = useState(null);
   
   useEffect(() => {
-        async function fetchData() {
-            try {
-                const res = await fetch('https://api.rss2json.com/v1/api.json?rss_url=https://backstory-app.medium.com/feed');
-                const data = await res.json();
-                const items = data.items;
-                setItems(items);
-            } catch {
-                setError(true);
-            }
-        }
+      async function fetchData() {
+          try {
+              const res = await fetch('https://api.rss2json.com/v1/api.json?rss_url=https://backstory-app.medium.com/feed');
+              const data = await res.json();
+              const items = data.items;
+              setItems(items);
+          } catch {
+              setError(true);
+          }
+      }
 
-        fetchData();
-    }, []);
-  ...
+      fetchData();
+  }, []);
 
   return (
     <div className="bg-white py-24 sm:py-32">
@@ -62,5 +61,5 @@ export function Blog() {
         </div>
       </div>
     </div>
-  )
+  );
 }
