@@ -17,7 +17,7 @@ export function CallToAction2() {
           name="contact2"
           method="post"
           data-netlify="true"
-          className="grid place-items-center"
+          className="grid place-items-center mt-6"
         >
           <input type="hidden" name="form-name" value="contact" />
           <div className="flex gap-4">
