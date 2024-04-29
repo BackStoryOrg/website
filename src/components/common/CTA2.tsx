@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import { Button } from "@/components/common/Button";
 
-export default function CallToAction2() {
+export function CallToAction2() {
   return (
     <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
