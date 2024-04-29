@@ -1,3 +1,4 @@
+import { CallToAction } from "@/components/blog/Blog";
 import { CallToAction } from "@/components/common/CallToAction";
 import { CallToAction1 } from "@/components/common/CTA1";
 import { CallToAction2 } from "@/components/common/CTA2";
@@ -18,6 +19,7 @@ export default function Home() {
         <WhatHeader />
         <WhatContent />
         <CallToAction2 />
+        <Blog />
         <Faqs />
         <CallToAction />
       </main>
