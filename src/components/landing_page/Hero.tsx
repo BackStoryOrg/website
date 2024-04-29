@@ -50,7 +50,7 @@ export function Hero() {
                     We build multiverses!
                   </h1>
                   <p className="mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
-                    Discover a new dimension of fictional storytelling with our creative world-building platform. Whether you’re a seasoned author, editor, designer, or an enthusiast, our collaborative universe empowers you to craft immersive environments, intricate characters, captivating narratives and be read. 
+                    Discover a new dimension of fictional storytelling with our creative world-building platform. Whether you are a seasoned author, editor, designer, or an enthusiast, our collaborative universe empowers you to craft immersive environments, intricate characters, captivating narratives and be read. 
                   </p>
                   <div className="mt-10 flex items-center gap-x-6">
                     <a
