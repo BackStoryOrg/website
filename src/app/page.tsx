@@ -5,6 +5,7 @@ import { Footer } from "@/components/footer/Footer";
 import { Header } from "@/components/header/Header";
 import { Hero } from "@/components/landing_page/Hero";
 import { WhatHeader } from "@/components/what/WhatHeader";
+import { WhatContent } from "@/components/what/WhatContent";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <Hero />
         <CallToAction1 />
         <WhatHeader />
+        <WhatContent />
         <Faqs />
         <CallToAction />
       </main>
