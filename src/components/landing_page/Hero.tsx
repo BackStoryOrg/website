@@ -5,9 +5,6 @@ import unsplash3 from "@/images/unsplash3.jpg";
 import unsplash4 from "@/images/unsplash4.jpg";
 import unsplash5 from "@/images/unsplash5.jpg";
 
-
-import { Container } from "@/components/common/Container";
-
 export function Hero() {
   return (
     <main>

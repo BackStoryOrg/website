@@ -1,3 +1,5 @@
+
+
 export function WhatHeader() {
   return (
     <div className="bg-white py-24 sm:py-32">
@@ -6,10 +8,10 @@ export function WhatHeader() {
           <p className="text-base font-semibold leading-7 text-indigo-600">The future of fiction</p>
           <h2 className="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">We build multiverses!</h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            At BackStory we use our bespoke World Building Engine to craft vast and yet intricate fictional worlds and their histories <b>in days!</b>
+            At BackStory we use our bespoke World Building Engine to craft vast and yet intricate fictional worlds and their histories <b>in days!</b> That&apos;s thousands of years of fascinating history across entire worlds ready to be written about.
           </p>
         </div>
       </div>
     </div>
-  )
+  );
 }
