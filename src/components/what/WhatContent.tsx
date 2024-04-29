@@ -48,7 +48,7 @@ export function WhatContent() {
                 </li>
               </ul>
               <p className="mt-8">
-                Our bespoke software is perfectly designed for a team of creatives to work collaboratively on a multiverse world. Including features such as interactive <b>time-sensitive</b> maps, AI-written explanations of the world's lore (so you don&apos;t have to write it yourself), and even a pitching system where team members can suggest ideas for new content and discuss them.
+                Our bespoke software is perfectly designed for a team of creatives to work collaboratively on a multiverse world. Including features such as interactive <b>time-sensitive</b> maps, AI-written explanations of the world&apos;s lore (so you don&apos;t have to write it yourself), and even a pitching system where team members can suggest ideas for new content and discuss them.
               </p>
               <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">Anything else?</h2>
               <p className="mt-6">
