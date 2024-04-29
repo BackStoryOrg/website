@@ -11,7 +11,7 @@ const features = [
   {
     name: 'Shared worlds',
     description:
-      'Each of our worlds has a fantastic team of creatives working together to produce stories and other content for public consumption. Collaborate with colleagues and share in the success.',
+      'Each of our worlds has a dedicated team of creatives working together to produce stories and other content for public consumption. Collaborate with colleagues and share in the success.',
     href: '#',
   },
   {
