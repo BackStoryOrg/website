@@ -28,12 +28,12 @@ export function WhatContent() {
             </p>
             <div className="mt-10 max-w-xl text-base leading-7 text-gray-700 lg:max-w-none">
               <p>
-                At BackStory we publish all content created about our worlds on our own unique reading platform. No more content disappearing on Kindle, Kobo and Smashwords once it has been published. 
+                At Backstory we publish all content created about our worlds on our own unique reading platform. No more content disappearing on Kindle, Kobo and Smashwords once it has been published. 
               </p>
               <ul role="list" className="mt-8 space-y-8 text-gray-600">
                 <li className="flex gap-x-3">
                   <span>
-                    <strong className="font-semibold text-gray-900">Readership analytics.</strong> Ever wanted to know who is reading your content so you can tailor future content to your audience? With BackStory you can do just that.
+                    <strong className="font-semibold text-gray-900">Readership analytics.</strong> Ever wanted to know who is reading your content so you can tailor future content to your audience? With Backstory you can do just that.
                   </span>
                 </li>
                 <li className="flex gap-x-3">

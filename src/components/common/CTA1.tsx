@@ -21,7 +21,7 @@ export function CallToAction1() {
             Want to join the future of fiction?
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            Reach out to us with your preferred role and we will be in touch!
+            Reach out to us with your preferred role and we will be in touch.
           </p>
           <hr className="my-3" />
           <form

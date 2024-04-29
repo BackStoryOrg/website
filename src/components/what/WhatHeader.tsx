@@ -5,7 +5,7 @@ const features = [
   {
     name: "No more writer's block",
     description:
-      'With thousands of years of history for each world, you will be finding storylines not having to come up with them. Fast-track your success and be a writing hero!',
+      'With thousands of years of history for each world, you will be finding storylines not having to come up with them. Fast-track your success and be a writing hero.',
     href: '#',
   },
   {
@@ -29,10 +29,10 @@ export function WhatHeader() {
         <div className="mx-auto max-w-2xl lg:text-center">
           <h2 className="text-base font-semibold leading-7 text-indigo-600">The future of fiction</h2>
           <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            We build multiverses!
+            We build multiverses
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            At BackStory we use our bespoke World Building Engine to craft vast and yet intricate fictional worlds and their histories <b>in days!</b> That&apos;s thousands of years of fascinating history across entire worlds ready to be written about.
+            At Backstory we use our bespoke World Building Engine to craft vast and yet intricate fictional worlds and their histories <b>in days</b> That&apos;s thousands of years of fascinating history across entire worlds ready to be written about.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">

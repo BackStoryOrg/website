@@ -22,7 +22,7 @@ export function CallToAction() {
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
             Sign up to receive news about the progress of our project and how
-            you can get involved!
+            you can get involved.
           </p>
           <hr className="my-3" />
           <form
