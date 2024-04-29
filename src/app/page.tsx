@@ -10,6 +10,7 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
+        <CallToAction1 />
         <Faqs />
         <CallToAction />
       </main>
