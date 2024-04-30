@@ -14,7 +14,7 @@ export function CallToAction2() {
       </div>
 
       <form
-          name="contact2"
+          name="contact_second"
           method="post"
           data-netlify="true"
           className="grid place-items-center mt-6"
