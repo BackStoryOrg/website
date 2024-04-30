@@ -15,11 +15,9 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
-        <CallToAction1 />
         <WhatHeader />
         <WhatContent />
         <CallToAction2 />
-        
         <Faqs />
         <CallToAction />
       </main>

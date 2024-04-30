@@ -1,7 +1,5 @@
 
 const features = [
-
-
   {
     name: "No more writer's block",
     description:
@@ -24,14 +22,14 @@ const features = [
 
 export function WhatHeader() {
   return (
-    <div className="bg-white py-24 sm:py-32" id="WhatHeader">
+    <div className="bg-gray-900 py-24 sm:py-32" id="WhatHeader">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:text-center">
-          <h2 className="text-base font-semibold leading-7 text-indigo-600">The future of fiction</h2>
-          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          <h2 className="text-base font-semibold leading-7 text-indigo-400">The future of fiction</h2>
+          <p className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
             We build multiverses
           </p>
-          <p className="mt-6 text-lg leading-8 text-gray-600">
+          <p className="mt-6 text-lg leading-8 text-gray-300">
             At Backstory we use our bespoke World Building Engine to craft vast and yet intricate fictional worlds and their histories <b>in days</b>. That&apos;s thousands of years of fascinating history across entire worlds ready to be written about.
           </p>
         </div>
@@ -39,10 +37,11 @@ export function WhatHeader() {
           <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
             {features.map((feature) => (
               <div key={feature.name} className="flex flex-col">
-                <dt className="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900">
+                <dt className="flex items-center gap-x-3 text-base font-semibold leading-7 text-white">
+                  <feature.icon className="h-5 w-5 flex-none text-indigo-400" aria-hidden="true" />
                   {feature.name}
                 </dt>
-                <dd className="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                <dd className="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-300">
                   <p className="flex-auto">{feature.description}</p>
                 </dd>
               </div>
