@@ -15,9 +15,10 @@ export function CallToAction1() {
   };
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+    const target = e.target as HTMLFormElement;
     const data = {
-      email: e.target.email.value,
-      preference: e.target.preference.value,
+      email: target.email.value,
+      preference: target.preference.value,
     };
 
     fetch("/favicon.ico", {
