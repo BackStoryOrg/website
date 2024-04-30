@@ -39,25 +39,7 @@ export default function RootLayout({
         lexend.variable,
       )}
     >
-      <body className="flex h-full flex-col">
-      
-      <form name="contact" data-netlify="true" hidden>
-      <input type="email" name="email" />
-      <select name="preference"></select>
-    </form>
-
-    <form name="contact1" data-netlify="true" hidden>
-      <input type="email" name="email" />
-      <select name="preference"></select>
-    </form>
-
-    <form name="contact2" data-netlify="true" hidden>
-      <input type="email" name="email" />
-      <select name="preference"></select>
-    </form>
-
-      {children}
-      </body>
+      <body className="flex h-full flex-col">{children}</body>
     </html>
   );
 }
