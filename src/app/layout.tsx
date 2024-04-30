@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     default: "BackStory - World-building and story-writing platform",
   },
   description:
-    "A tight-knit team of world builders and story writers publishing awesome content.",
+    "We build multiverses with you.",
 };
 
 const inter = Inter({
