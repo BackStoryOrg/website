@@ -25,7 +25,7 @@ export function CallToAction1() {
           </p>
           <hr className="my-3" />
           <form
-            name="contact_first"
+            name="contact"
             method="post"
             data-netlify="true"
             className="grid place-items-center"
