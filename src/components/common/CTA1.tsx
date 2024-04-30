@@ -14,7 +14,7 @@ export function CallToAction1() {
       .join("&");
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     const data = {
       email: e.target.email.value,
       preference: e.target.preference.value,
