@@ -30,12 +30,11 @@ export function AboutWhat() {
       </div>
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0">
-          <p className="text-lg font-semibold leading-8 tracking-tight text-indigo-600">Deploy faster</p>
-          <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A better workflow</h1>
+          <p className="text-lg font-semibold leading-8 tracking-tight text-indigo-600">Get to know us a bit</p>
+          <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">What is Backstory?</h1>
           <p className="mt-6 text-xl leading-8 text-gray-700">
-            Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget
-            aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend
-            egestas fringilla sapien.
+            Backstory is a lot of things to different people, but to us it is an idea that provides a solution to an over-saturated fiction industry. The fiction writing industry is one of the hardest to succeed in. The barriers to market have become quite low so that just about anyone can try their hand at it. 
+            In a way this is fantastic because great quality content from all corners of the world can shine through and enrich our global culture, but with such an overwhelming amount of content, finding those hidden gems becomes harder and harder.
           </p>
         </div>
         <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:mt-10 lg:max-w-none lg:grid-cols-12">
@@ -59,20 +58,12 @@ export function AboutWhat() {
             <figure className="border-l border-indigo-600 pl-8">
               <blockquote className="text-xl font-semibold leading-8 tracking-tight text-gray-900">
                 <p>
-                  “Vel ultricies morbi odio facilisi ultrices accumsan donec lacus purus. Lectus nibh ullamcorper ac
-                  dictum justo in euismod. Risus aenean ut elit massa. In amet aliquet eget cras. Sem volutpat enim
-                  tristique.”
+                  “In an industry overflowing with content the hardest thing to achieve is being found and heard. The power of a collective voice can cut through the deluge and bring success to many instead of a few.”
                 </p>
               </blockquote>
               <figcaption className="mt-8 flex gap-x-4">
-                <img
-                  src="https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-                  alt=""
-                  className="mt-1 h-10 w-10 flex-none rounded-full bg-gray-50"
-                />
                 <div className="text-sm leading-6">
-                  <div className="font-semibold text-gray-900">Brenna Goyette</div>
-                  <div className="text-gray-600">@brenna</div>
+                  <div className="font-semibold text-gray-900">Cal West</div>
                 </div>
               </figcaption>
             </figure>
@@ -169,11 +160,6 @@ export function AboutWhy() {
       </div>
       <div className="relative overflow-hidden pt-16 lg:pt-20">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <img
-            className="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-900/10"
-            src="https://tailwindui.com/img/component-images/project-app-screenshot.png"
-            alt=""
-          />
           <div className="relative" aria-hidden="true">
             <div className="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-white pt-[7%]" />
           </div>
