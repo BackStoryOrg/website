@@ -5,6 +5,32 @@ import { Container } from "@/components/common/Container";
 import backgroundImage from "@/images/background-call-to-action.jpg";
 
 export function CallToAction1() {
+
+  const encode = (data) => {
+    return Object.keys(data)
+      .map(
+        (key) => encodeURIComponent(key) + "=" + encodeURIComponent(data[key])
+      )
+      .join("&");
+  };
+
+  const handleSubmit = (e) => {
+    const data = {
+      email: e.target.email.value,
+      preference: e.target.preference.value,
+    };
+
+    fetch("/favicon.ico", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({ "form-name": "contact1", ...data }),
+    })
+      .then(() => alert("Success!"))
+      .catch((error) => alert(error));
+
+    e.preventDefault();
+  };
+
   return (
     <section className="relative overflow-hidden bg-blue-600 py-32">
       <Image
@@ -29,6 +55,7 @@ export function CallToAction1() {
             method="post"
             data-netlify="true"
             className="grid place-items-center"
+            onSubmit={handleSubmit}
           >
             <input type="hidden" name="form-name" value="contact1" />
             <div className="flex flex-col md:flex-row gap-4">
