@@ -39,7 +39,25 @@ export default function RootLayout({
         lexend.variable,
       )}
     >
-      <body className="flex h-full flex-col">{children}</body>
+      <body className="flex h-full flex-col">
+      
+      <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+      <input type="email" name="email" />
+      <select name="preference"></select>
+    </form>
+
+    <form name="contact1" netlify netlify-honeypot="bot-field" hidden>
+      <input type="email" name="email" />
+      <select name="preference"></select>
+    </form>
+
+    <form name="contact2" netlify netlify-honeypot="bot-field" hidden>
+      <input type="email" name="email" />
+      <select name="preference"></select>
+    </form>
+    
+      {children}
+      </body>
     </html>
   );
 }
