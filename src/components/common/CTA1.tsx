@@ -6,8 +6,8 @@ import backgroundImage from "@/images/background-call-to-action.jpg";
 
 export function CallToAction1() {
 
-  const encode = (data) => {
-    return Object.keys(data: Record<string, any>)
+  const encode = (data: Record<string, any>) => {
+    return Object.keys(data)
       .map(
         (key) => encodeURIComponent(key) + "=" + encodeURIComponent(data[key])
       )
