@@ -1,6 +1,5 @@
 
 import { CallToAction } from "@/components/common/CallToAction";
-import { CallToAction1 } from "@/components/common/CTA1";
 import { CallToAction2 } from "@/components/common/CTA2";
 import { Faqs } from "@/components/faqs_page/Faqs";
 import { Footer } from "@/components/footer/Footer";
