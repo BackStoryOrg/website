@@ -34,7 +34,9 @@ export function AboutWhat() {
           <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">What is Backstory?</h1>
           <p className="mt-6 text-xl leading-8 text-gray-700">
             Backstory is a lot of things to different people, but to us it is an idea that provides a solution to an over-saturated fiction industry. The fiction writing industry is one of the hardest to succeed in. The barriers to market have become quite low so that just about anyone can try their hand at it. 
-            In a way this is fantastic because great quality content from all corners of the world can shine through and enrich our global culture, but with such an overwhelming amount of content, finding those hidden gems becomes harder and harder.
+          </p>
+          <p className="mt-6 text-xl leading-8 text-gray-700">
+            This is fantastic because great quality content from all corners of the world can shine through and enrich our lives. But with such an overwhelming amount of content, finding those hidden gems becomes harder and harder.
           </p>
         </div>
         <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:mt-10 lg:max-w-none lg:grid-cols-12">
@@ -70,10 +72,7 @@ export function AboutWhat() {
           </div>
           <div className="max-w-xl text-base leading-7 text-gray-700 lg:col-span-7">
             <p>
-              Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet
-              vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque
-              erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper
-              sed amet vitae sed turpis id.
+              We realised that a collective voice is much louder than an individual one, and so its message (and content) can be found more easily. Working collaboratively results in a higher probability of success, which is why you&apos;re in the industry in the first place.
             </p>
             <ul role="list" className="mt-8 max-w-xl space-y-8 text-gray-600">
               <li className="flex gap-x-3">
@@ -120,20 +119,15 @@ export function AboutWhy() {
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
-          <p className="text-base font-semibold leading-7 text-indigo-600">Deploy faster</p>
-          <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A better workflow</h1>
+          <p className="text-base font-semibold leading-7 text-indigo-600">Filling a gap</p>
+          <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Why we exist</h1>
           <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
             <div>
               <p>
-                Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet
-                vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque
-                erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris
-                semper sed amet vitae sed turpis id.
+                We searched high and low for a piece of software or a platform that provided teams with a structured way to collaboratively create and publish content, and nothing matched our expectations.
               </p>
               <p className="mt-8">
-                Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor
-                fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac
-                adipiscing egestas.
+                We also came to the conclusion that the way the industry works is counterproductive to success. If your aim is to write a story and see it adapted for film and up on the big screen, you need to work in a way that wows film studios.
               </p>
             </div>
             <div>
