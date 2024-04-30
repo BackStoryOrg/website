@@ -25,12 +25,12 @@ export function CallToAction1() {
           </p>
           <hr className="my-3" />
           <form
-            name="contact"
+            name="contact1"
             method="post"
             data-netlify="true"
             className="grid place-items-center"
           >
-            <input type="hidden" name="form-name" value="contact" />
+            <input type="hidden" name="form-name" value="contact1" />
             <div className="flex flex-col md:flex-row gap-4">
               <input
                 className="h-12 min-w-[12rem] rounded-lg border-emerald-500 indent-4 text-emerald-900 shadow-lg focus:outline-none focus:ring focus:ring-emerald-600"
