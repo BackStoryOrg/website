@@ -32,7 +32,7 @@ export function WhatHeader() {
             We build multiverses
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            At Backstory we use our bespoke World Building Engine to craft vast and yet intricate fictional worlds and their histories <b>in days</b> That&apos;s thousands of years of fascinating history across entire worlds ready to be written about.
+            At Backstory we use our bespoke World Building Engine to craft vast and yet intricate fictional worlds and their histories <b>in days</b>. That&apos;s thousands of years of fascinating history across entire worlds ready to be written about.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
