@@ -212,7 +212,7 @@ export function AboutHow() {
               </p>
               <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">Are you an indie publishing house?</h2>
               <p className="mt-6">
-                If you have your own indie publishing house then we might be a great opportunity for you. Your entrepreneurial spirit makes you perfectly suitable for Backstory world management. Imagine running a world with a team of 50 creatives all under your roof producing related content. Can you see the marketing and sales potential? Why not have a <a mailto="info@backstoryuniverse.com">chat with us</a>
+                If you have your own indie publishing house then we might be a great opportunity for you. Your entrepreneurial spirit makes you perfectly suitable for Backstory world management. Imagine running a world with a team of 50 creatives all under your roof producing related content. Can you see the marketing and sales potential? Why not have a <a href="mailto:info@backstoryuniverse.com">chat with us</a>.
               </p>
             </div>
           </div>
