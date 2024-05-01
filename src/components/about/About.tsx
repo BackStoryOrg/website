@@ -215,7 +215,7 @@ export function AboutHow() {
                 If you have your own indie publishing house then we might be a great opportunity for you. Your entrepreneurial spirit makes you perfectly suitable for Backstory world management.
               </p>
               <p className="mt-6">
-                Imagine running a world with a team of 50 creatives all under your roof producing related content. Can you see the marketing and sales potential? Why not have a <a href="mailto:info@backstoryuniverse.com">chat with us</a>.
+                Imagine running a world with a team of 50 creatives all under your roof producing related content. Can you see the marketing and sales potential? Why not have a <a href="mailto:info@backstoryuniverse.com" className="underline">chat with us</a>.
               </p>
             </div>
           </div>
