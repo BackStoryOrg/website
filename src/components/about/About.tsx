@@ -117,7 +117,7 @@ export function AboutWhy() {
               <p>
                 We searched high and low for a piece of software or a platform that provided teams with a structured way to collaboratively create and publish content, and nothing matched our expectations.
               </p>
-              <p>
+              <p className="mt-8">
                 We know certain groups of people have tried to achieve the shared world concept manually without a suitable piece of software, and have struggled and eventually fallen away.
               </p>
             </div>
