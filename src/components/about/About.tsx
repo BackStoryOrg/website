@@ -221,6 +221,18 @@ export function AboutHow() {
   )
 }
 
+export function AboutEnd() {
+  return (
+    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
+      <div className="mx-auto max-w-2xl text-center">
+        <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Join us</h2>
+        <p className="mt-6 text-lg leading-8 text-gray-600">
+          Whether you&apos;re a writer, and editor, a world-builder or a fiction entrepreneur we have a space for you at Backstory. Our success is your success and we want to succeed with you.
+        </p>
+      </div>
+    </div>
+  )
+}
 
 /*
 	Photo by <a href="https://unsplash.com/@anniespratt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Annie Spratt</a> on <a href="https://unsplash.com/photos/men-sitting-in-front-of-their-laptop-computer-MChSQHxGZrQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
