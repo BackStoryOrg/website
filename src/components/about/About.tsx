@@ -184,26 +184,22 @@ export function AboutHow() {
             </p>
             <div className="mt-10 max-w-xl text-base leading-7 text-gray-700 lg:max-w-none">
               <p>
-                Teams work together on all kinds of content such as franchises and short stories, but also even in-character travel journals and diary extracts. The aim of the team is to create as much quality content of all kinds to keep readers interested and engaged.
+                Teams work together on all kinds of content such as franchises and short stories, but also even in-character travel journals and diary extracts. The aim of the team is to create as much quality content of all kinds as possible, to keep readers interested and engaged.
               </p>
               <ul role="list" className="mt-8 space-y-8 text-gray-600">
                 <li className="flex gap-x-3">
                   <span>
-                    <strong className="font-semibold text-gray-900">Push to deploy.</strong> Lorem ipsum, dolor sit amet
-                    consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate
-                    blanditiis ratione.
+                    <strong className="font-semibold text-gray-900">Collaborate.</strong> Work in intimate 4-person teams on each piece of content, with each of you filling a specific role.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
                   <span>
-                    <strong className="font-semibold text-gray-900">SSL certificates.</strong> Anim aute id magna aliqua
-                    ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.
+                    <strong className="font-semibold text-gray-900">Publish.</strong> Feel the breeze of one-click publishing without having to worry about formatting for file formats.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
                   <span>
-                    <strong className="font-semibold text-gray-900">Database backups.</strong> Ac tincidunt sapien
-                    vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.
+                    <strong className="font-semibold text-gray-900">Succeed.</strong> Sit back and effortlessly keep track of your sales and reading analytics to help guide you on your next piece of content.
                   </span>
                 </li>
               </ul>
@@ -215,7 +211,7 @@ export function AboutHow() {
                 If you have your own indie publishing house then we might be a great opportunity for you. Your entrepreneurial spirit makes you perfectly suitable for Backstory world management.
               </p>
               <p className="mt-6">
-                Imagine running a world with a team of 50 creatives all under your roof producing related content. Can you see the marketing and sales potential? Why not have a <a href="mailto:info@backstoryuniverse.com" className="underline">chat with us</a>.
+                Imagine running a world with a team of 50 creatives all under your roof producing related content. Can you see the marketing and sales potential? Why not have a <a href="mailto:info@backstoryuniverse.com" subject="Backstory World Management Interest" className="underline">chat with us</a>.
               </p>
             </div>
           </div>
