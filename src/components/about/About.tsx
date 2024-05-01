@@ -135,14 +135,14 @@ export function AboutWhy() {
               </p>
             </div>
           </div>
-          <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none lg:text-center">
+          <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none">
             <div>
               <p className="text-base font-semibold leading-7 text-indigo-600">Changing perspective</p>
               <p>
                 Did you know that as a writer your readers and fans are not overly interested in your storyline? Harry Potter fans don&apos;t want to defeat Voldermort, they just want to be wizards and go to Hogwarts. Game of Thrones fans don&apos;t want to defeat the white walkers, they want to fly around on dragons.
               </p>
               <p className="mt-8">
-                The world itself is the product and the brand, not the storyline. Fans want to <b>live in the world</b>, not live in the storyline. This makes readers customers of the world, so whichever storyline brings them into a world, they automatically act like repeat customers for all other storylines in that world. And the one thing we all know about repeat customers is that it&apos;s 6 times easier to sell to them than a new customer.
+                The storyline is not the product or brand, the world is. Fans want to <b>live in the world</b>, not live in the storyline. This means that readers are customers of the world. Whichever storyline brings them into a world, they automatically act like repeat customers for all of the world&apos;s other storylines. And the one thing we all know about repeat customers is that it&apos;s 6 times easier to sell to them than to a new customer.
               </p>
             </div>
           </div>
@@ -180,7 +180,7 @@ export function AboutHow() {
             <p className="text-base font-semibold leading-7 text-indigo-600">Teams and brands</p>
             <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">How we work</h1>
             <p className="mt-6 text-xl leading-8 text-gray-700">
-              We work in worlds, and each world that we build and populate is a brand in and of itself. We attach a team of creatives to each world, who work in teams to produce content for publication.
+              We work in worlds, and each world that we build and populate is a brand in and of itself. We attach a collection of diverse creatives to each world, who work in teams to produce content for publication.
             </p>
             <div className="mt-10 max-w-xl text-base leading-7 text-gray-700 lg:max-w-none">
               <p>
