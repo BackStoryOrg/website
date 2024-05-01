@@ -120,29 +120,15 @@ export function AboutWhy() {
               <p>
                 We know certain groups of people have tried to achieve the shared world concept manually without a suitable piece of software, and have struggled and eventually fallen away.
               </p>
-              <p className="mt-8">
-                We also came to the conclusion that the way the industry works is counterproductive to success. If your aim is to write a story and see it adapted for film and up on the big screen, you need to work in a way that suits film studios.
-              </p>
             </div>
             <div>
               <p>
-                Erat pellentesque dictumst ligula porttitor risus eget et eget. Ultricies tellus felis id dignissim
-                eget. Est augue maecenas risus nulla ultrices congue nunc tortor.
+                We came to the conclusion that the way the industry works is counterproductive to success. As a creative, your aim should be to see your content up on the big screen, because then you will get a return on your investment. To increase the probability of that you need to work in a way that is desirable to film studios.
               </p>
               <p className="mt-8">
-                Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor
-                fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac
-                adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.
+                Film studios and game developers are looking for canons & content that they can that they can squeeze to get at least 10 years worth of content out of. Working as an individual it would probably take you 10 years just to create that amount of content. Working collaboratively turns that into 2 years or even 1.
               </p>
             </div>
-          </div>
-          <div className="mt-10 flex">
-            <a
-              href="#"
-              className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-            >
-              Get started
-            </a>
           </div>
         </div>
       </div>
