@@ -1,4 +1,8 @@
 
+import Image from "next/image";
+import aboutHowImage from "@/images/aboutHow.jpg";
+
+
 export function AboutHeader() {
   return (
     <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
@@ -96,7 +100,7 @@ export function AboutWhat() {
             </p>
             <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">What are we really about?</h2>
             <p className="mt-6">
-              At Backstory, we&apos;re on a mission to prove that creatives have a greater chance of success working from our perspective. We have high hopes for this and we hope you do too. As with any pioneering concept, the first task is to adjust your perspective. If you&apos;re curious about what we are doing don&apos;t hesitate to reach out.
+              At Backstory, we&apos;re on a mission to prove that creatives have a greater chance of success by working together. We have high hopes for this and we hope you do too. As with any pioneering concept, the first task is to make a perspective adjustment. If you&apos;re curious about what we are doing don&apos;t hesitate to reach out.
             </p>
           </div>
         </div>
@@ -149,17 +153,20 @@ export function AboutHow() {
       <div className="mx-auto max-w-7xl lg:flex lg:justify-between lg:px-8 xl:justify-end">
         <div className="lg:flex lg:w-1/2 lg:shrink lg:grow-0 xl:absolute xl:inset-y-0 xl:right-1/2 xl:w-1/2">
           <div className="relative h-80 lg:-ml-8 lg:h-auto lg:w-full lg:grow xl:ml-0">
-            <img
-              className="absolute inset-0 h-full w-full bg-gray-50 object-cover"
-              src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=focalpoint&fp-x=.4&w=2560&h=3413&&q=80"
-              alt=""
-            />
+            <Image
+  				className="absolute inset-0 h-full w-full bg-gray-50 object-cover"
+  				src={aboutHowImage}
+  				alt=""
+  				width={2560}
+  				height={3413}
+  				unoptimized
+  			/>
           </div>
         </div>
         <div className="px-6 lg:contents">
           <div className="mx-auto max-w-2xl pb-24 pt-16 sm:pb-32 sm:pt-20 lg:ml-8 lg:mr-0 lg:w-full lg:max-w-lg lg:flex-none lg:pt-32 xl:w-1/2">
-            <p className="text-base font-semibold leading-7 text-indigo-600">Deploy faster</p>
-            <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A better workflow</h1>
+            <p className="text-base font-semibold leading-7 text-indigo-600">Teams and brands</p>
+            <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">How we work</h1>
             <p className="mt-6 text-xl leading-8 text-gray-700">
               Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget
               aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend
@@ -214,6 +221,7 @@ export function AboutHow() {
 }
 
 
-
-
+/*
+	Photo by <a href="https://unsplash.com/@anniespratt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Annie Spratt</a> on <a href="https://unsplash.com/photos/men-sitting-in-front-of-their-laptop-computer-MChSQHxGZrQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+*/
 
