@@ -72,7 +72,7 @@ export function AboutWhat() {
           </div>
           <div className="max-w-xl text-base leading-7 text-gray-700 lg:col-span-7">
             <p>
-              We realised that a collective voice is much louder than an individual one, and so its message (and content) can be found more easily. Working collaboratively results in a higher probability of success, which is why you&apos;re in the industry in the first place.
+              We realised that a collective voice is much louder than an individual one, and so its message (and content) can be found more easily. Working collaboratively results in a higher probability of success, which is why you&apos;re in the industry in the first place, success.
             </p>
             <ul role="list" className="mt-8 max-w-xl space-y-8 text-gray-600">
               <li className="flex gap-x-3">
