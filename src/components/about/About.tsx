@@ -135,14 +135,14 @@ export function AboutWhy() {
               </p>
             </div>
           </div>
-          <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none">
+          <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none lg:text-center">
             <div>
               <p className="text-base font-semibold leading-7 text-indigo-600">Changing perspective</p>
               <p>
-                We know certain groups of people have tried to achieve the shared world concept manually. Unfortunately, without a suitable piece of software they have struggled and eventually fallen away. The concept is too complicated to achieve manually.
+                Did you know that as a writer your readers and fans are not overly interested in your storyline? Harry Potter fans don&apos;t want to defeat Voldermort, they just want to be wizards and go to Hogwarts. Game of Thrones fans don&apos;t want to defeat the white walkers, they want to fly around on dragons.
               </p>
               <p className="mt-8">
-                We searched high and low for a piece of software or a platform that provided teams with a structured way to collaboratively create and publish content. Unfortunately nothing matched our expectations. Shared worlds require unique software, and nothing out there currently exists.
+                The world itself is the product and the brand, not the storyline. Fans want to <b>live in the world</b>, not live in the storyline. This makes readers customers of the world, so whichever storyline brings them into a world, they automatically act like repeat customers for all other storylines in that world. And the one thing we all know about repeat customers is that it&apos;s 6 times easier to sell to them than a new customer.
               </p>
             </div>
           </div>
