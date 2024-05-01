@@ -142,7 +142,7 @@ export function AboutWhy() {
                 Did you know that as a writer your readers and fans are not overly interested in your storyline? Harry Potter fans don&apos;t want to defeat Voldermort, they just want to be wizards and go to Hogwarts. Game of Thrones fans don&apos;t want to defeat the white walkers, they want to fly around on dragons.
               </p>
               <p className="mt-8">
-                The storyline is not the product or brand, the world is. Fans want to <b>live in the world</b>, not live in the storyline. This means that readers are customers of the world. Whichever storyline brings them into a world, they automatically act like repeat customers for all of the world&apos;s other storylines. And the one thing we all know about repeat customers is that it&apos;s 6 times easier to sell to them than to a new customer.
+                The storyline is not the product or brand, the world is. Fans want to <b>live in the world</b>, not live out the storyline. This means that readers are customers of the world. Whichever storyline brings them into a world, they automatically act like repeat customers for all of the world&apos;s other storylines. And the one thing we all know about repeat customers is that it&apos;s 6 times easier to sell to them than to a new customer.
               </p>
             </div>
           </div>
@@ -177,17 +177,14 @@ export function AboutHow() {
         </div>
         <div className="px-6 lg:contents">
           <div className="mx-auto max-w-2xl pb-24 pt-16 sm:pb-32 sm:pt-20 lg:ml-8 lg:mr-0 lg:w-full lg:max-w-lg lg:flex-none lg:pt-32 xl:w-1/2">
-            <p className="text-base font-semibold leading-7 text-indigo-600">Teams and brands</p>
+            <p className="text-base font-semibold leading-7 text-indigo-600">Worlds, brands and teams</p>
             <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">How we work</h1>
             <p className="mt-6 text-xl leading-8 text-gray-700">
               We work in worlds, and each world that we build and populate is a brand in and of itself. We attach a collection of diverse creatives to each world, who work in teams to produce content for publication.
             </p>
             <div className="mt-10 max-w-xl text-base leading-7 text-gray-700 lg:max-w-none">
               <p>
-                Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet
-                vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque
-                erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris
-                semper sed amet vitae sed turpis id.
+                Teams work together on all kinds of content such as franchises and short stories, but also even in-character travel journals and diary extracts. The aim of the team is to create as much quality content of all kinds to keep readers interested and engaged.
               </p>
               <ul role="list" className="mt-8 space-y-8 text-gray-600">
                 <li className="flex gap-x-3">
@@ -211,16 +208,11 @@ export function AboutHow() {
                 </li>
               </ul>
               <p className="mt-8">
-                Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor
-                fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac
-                adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.
+                Published content from all of our worlds becomes available to read on our unique cross-platform reading app at very competitive prices. No more getting lost on Kindle, Kobo or Smashwords.
               </p>
-              <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">No server? No problem.</h2>
+              <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">Are you an indie publishing house?</h2>
               <p className="mt-6">
-                Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh.
-                Pharetra, euismod vitae interdum mauris enim, consequat vulputate nibh. Maecenas pellentesque id sed
-                tellus mauris, ultrices mauris. Tincidunt enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam
-                turpis ipsum eu a sed convallis diam.
+                If you have your own indie publishing house then we might be a great opportunity for you. Your entrepreneurial spirit makes you perfectly suitable for Backstory world management. Imagine running a world with a team of 50 creatives all under your roof producing related content. Can you see the marketing and sales potential? Why not have a <a mailto="info@backstoryuniverse.com">chat with us</a>
               </p>
             </div>
           </div>
