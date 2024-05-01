@@ -117,8 +117,11 @@ export function AboutWhy() {
               <p>
                 We searched high and low for a piece of software or a platform that provided teams with a structured way to collaboratively create and publish content, and nothing matched our expectations.
               </p>
+              <p>
+                We know certain groups of people have tried to achieve the shared world concept manually without a suitable piece of software, and have struggled and eventually fallen away.
+              </p>
               <p className="mt-8">
-                We also came to the conclusion that the way the industry works is counterproductive to success. If your aim is to write a story and see it adapted for film and up on the big screen, you need to work in a way that wows film studios.
+                We also came to the conclusion that the way the industry works is counterproductive to success. If your aim is to write a story and see it adapted for film and up on the big screen, you need to work in a way that suits film studios.
               </p>
             </div>
             <div>
