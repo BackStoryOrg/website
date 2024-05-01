@@ -227,7 +227,7 @@ export function AboutEnd() {
       <div className="mx-auto max-w-2xl text-center">
         <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Join us</h2>
         <p className="mt-6 text-lg leading-8 text-gray-600">
-          Whether you&apos;re a writer, and editor, a world-builder or a fiction entrepreneur we have a space for you at Backstory. Our success is your success and we want to succeed with you.
+          Whether you&apos;re a writer, an editor, a world-builder, an artist or a fiction entrepreneur we have a space for you at Backstory. Our success is your success and we want to succeed with you.
         </p>
       </div>
     </div>
