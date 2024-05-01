@@ -119,10 +119,10 @@ export function AboutWhy() {
             <div>
               <p className="text-base font-semibold leading-7 text-indigo-600">Filling a gap</p>
               <p>
-                We know certain groups of people have tried to achieve the shared world concept manually without a suitable piece of software, and have struggled and eventually fallen away. The concept is too complicated to achieve manually.
+                We know certain groups of people have tried to achieve the shared world concept manually. Unfortunately, without a suitable piece of software they have struggled and eventually fallen away. The concept is too complicated to achieve manually.
               </p>
               <p className="mt-8">
-                We searched high and low for a piece of software or a platform that provided teams with a structured way to collaboratively create and publish content, and nothing matched our expectations. Shared worlds require unique software, and nothing out there currently exists.
+                We searched high and low for a piece of software or a platform that provided teams with a structured way to collaboratively create and publish content. Unfortunately nothing matched our expectations. Shared worlds require unique software, and nothing out there currently exists.
               </p>
             </div>
             <div>
@@ -132,6 +132,17 @@ export function AboutWhy() {
               </p>
               <p className="mt-8">
                 Film studios and game developers are looking for canons & content that they can really squeeze to get at least 10+ years worth of content out of. Working as an individual it would probably take you at least 10 years to create that amount of content. Working collaboratively turns that into 1 or 2 years.
+              </p>
+            </div>
+          </div>
+          <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none">
+            <div>
+              <p className="text-base font-semibold leading-7 text-indigo-600">Changing perspective</p>
+              <p>
+                We know certain groups of people have tried to achieve the shared world concept manually. Unfortunately, without a suitable piece of software they have struggled and eventually fallen away. The concept is too complicated to achieve manually.
+              </p>
+              <p className="mt-8">
+                We searched high and low for a piece of software or a platform that provided teams with a structured way to collaboratively create and publish content. Unfortunately nothing matched our expectations. Shared worlds require unique software, and nothing out there currently exists.
               </p>
             </div>
           </div>
@@ -169,7 +180,7 @@ export function AboutHow() {
             <p className="text-base font-semibold leading-7 text-indigo-600">Teams and brands</p>
             <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">How we work</h1>
             <p className="mt-6 text-xl leading-8 text-gray-700">
-              We work in worlds, and each world that we build and populate is a brand in and of itself. Each world has a team of creatives who work in teams to produce content for publication.
+              We work in worlds, and each world that we build and populate is a brand in and of itself. We attach a team of creatives to each world, who work in teams to produce content for publication.
             </p>
             <div className="mt-10 max-w-xl text-base leading-7 text-gray-700 lg:max-w-none">
               <p>
