@@ -91,7 +91,7 @@ export function AboutWhat() {
               </li>
               <li className="flex gap-x-3">
                 <span>
-                  <strong className="font-semibold text-gray-900">Analytics galore.</strong> It&apos;s not just reviews and ratings anymore. Rich analytics about who your customers can help you tailor your content to suit your audience. No more &quot;hit and hope&quot;.
+                  <strong className="font-semibold text-gray-900">Analytics galore.</strong> It&apos;s not just reviews and ratings anymore. Rich analytics about who your customers are can help you tailor your content to suit your audience. No more &quot;hit and hope&quot;.
                 </span>
               </li>
             </ul>
@@ -114,23 +114,24 @@ export function AboutWhy() {
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
-          <p className="text-base font-semibold leading-7 text-indigo-600">Filling a gap</p>
           <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Why we exist</h1>
           <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
             <div>
+              <p className="text-base font-semibold leading-7 text-indigo-600">Filling a gap</p>
               <p>
-                We searched high and low for a piece of software or a platform that provided teams with a structured way to collaboratively create and publish content, and nothing matched our expectations.
+                We know certain groups of people have tried to achieve the shared world concept manually without a suitable piece of software, and have struggled and eventually fallen away. The concept is too complicated to achieve manually.
               </p>
               <p className="mt-8">
-                We know certain groups of people have tried to achieve the shared world concept manually without a suitable piece of software, and have struggled and eventually fallen away.
+                We searched high and low for a piece of software or a platform that provided teams with a structured way to collaboratively create and publish content, and nothing matched our expectations. Shared worlds require unique software, and nothing out there currently exists.
               </p>
             </div>
             <div>
+              <p className="text-base font-semibold leading-7 text-indigo-600">Achieving desirables</p>
               <p>
-                We came to the conclusion that the way the industry works is counterproductive to success. As a creative, your aim should be to see your content up on the big screen, because then you will get a return on your investment. To increase the probability of that you need to work in a way that is desirable to film studios.
+                We came to the conclusion that the way the industry works is counterproductive to success. As a writer, your aim should always be to see your content up on the big screen, because then you will get a return on your investment. To increase the probability of that we need to work in a way that is desirable to film studios.
               </p>
               <p className="mt-8">
-                Film studios and game developers are looking for canons & content that they can that they can squeeze to get at least 10 years worth of content out of. Working as an individual it would probably take you 10 years just to create that amount of content. Working collaboratively turns that into 2 years or even 1.
+                Film studios and game developers are looking for canons & content that they can really squeeze to get at least 10+ years worth of content out of. Working as an individual it would probably take you at least 10 years to create that amount of content. Working collaboratively turns that into 1 or 2 years.
               </p>
             </div>
           </div>
@@ -168,9 +169,7 @@ export function AboutHow() {
             <p className="text-base font-semibold leading-7 text-indigo-600">Teams and brands</p>
             <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">How we work</h1>
             <p className="mt-6 text-xl leading-8 text-gray-700">
-              Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget
-              aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend
-              egestas fringilla sapien.
+              We work in worlds, and each world that we build and populate is a brand in and of itself. Each world has a team of creatives who work in teams to produce content for publication.
             </p>
             <div className="mt-10 max-w-xl text-base leading-7 text-gray-700 lg:max-w-none">
               <p>
