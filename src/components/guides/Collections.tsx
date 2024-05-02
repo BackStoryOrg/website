@@ -86,10 +86,10 @@ export function CollectionsContent2() {
         <div className="mt-16 max-w-2xl">
           <h2 className="text-2xl font-bold tracking-tight text-gray-900">If in doubt, try it out</h2>
           <p className="mt-6">
-            When we publish content we aim to make it as easy as possible for readers to know what they are likely to expect before purchasing it. We do encourage you to operate on a policy of &apos;try it out&apos;.
+            When we publish content we aim to make it as easy as possible for readers to know what they are likely to expect before purchasing it. At the same time we do encourage you to operate on a policy of &apos;try it out&apos;.
           </p>
           <p className="mt-8">
-            At the same time we are keenly aware that purchasing content obviously comes with a price, so we endeavour to keep our prices as low as possible to make your reading experience as expansive as possible.
+            We are keenly aware that purchasing content obviously comes with a price, so we endeavour to keep our prices as low as possible to make your reading experience as expansive as possible.
           </p>
         </div>
       </div>
