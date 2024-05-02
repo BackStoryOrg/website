@@ -33,10 +33,10 @@ export function TeamsContent1() {
             <div>
               <p className="text-base font-semibold leading-7 text-indigo-600">Stories</p>
               <p>
-                When talking about stories we also use the term teams. Each story that gets pitched, developed, written and published has its own team. We sometimes refer to them as sub-teams as well, because they are a team within a team.
+                When talking about stories we also use the term teams. Each story that gets pitched, developed, written and published has its own team. We sometimes refer to them as sub-teams as well, because they are essentially a team within a team.
               </p>
               <p className="mt-8">
-                
+                When it comes to story teams we often get two different methods of working. You&apos;re most likely to get the same creatives working on multiple stories if it is a franchise. However, with standalone content such as short stories or novelettes you can end up working with different people each time.
               </p>
             </div>
           </div>
@@ -51,7 +51,7 @@ export function TeamsContent2() {
     <div className="bg-white px-6 py-32 lg:px-8">
       <div className="mx-auto max-w-3xl text-base leading-7 text-gray-700">
         <p className="text-base font-semibold leading-7 text-indigo-600">Breakdown</p>
-        <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Types of collections</h1>
+        <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Team roles</h1>
         <p className="mt-6 text-xl leading-8">
           When a new collection is created it is given a type. We use 4 different types to help readers understand what they can expect from the content of a collection. Each type has its nuances, but we hope the terminology is clear enough for readers to understand.
         </p>
