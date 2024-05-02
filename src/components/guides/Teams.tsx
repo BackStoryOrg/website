@@ -36,7 +36,7 @@ export function TeamsContent1() {
                 When talking about stories we also use the term teams. Each story that gets pitched, developed, written and published has its own team. We sometimes refer to them as sub-teams as well, because they are essentially a team within a team.
               </p>
               <p className="mt-8">
-                When it comes to story teams we often get two different methods of working. You&apos;re most likely to get the same creatives working on multiple stories if it is a franchise. However, with standalone content such as short stories or novelettes you can end up working with different people each time.
+                When it comes to story teams we often get two different methods of working. You&apos;re most likely to get the same creatives working together on multiple stories if they are part of a franchise. However, with standalone content such as short stories or novelettes you could end up working with different people each time. If a group of creatives work well together, a world&apos;s management team is highly likely to keep them together on new content.
               </p>
             </div>
           </div>
