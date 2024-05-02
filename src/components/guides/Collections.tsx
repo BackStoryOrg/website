@@ -31,7 +31,7 @@ export function CollectionsContent1() {
             </div>
             <div>
               <p>
-                One of the interesting concepts that we have at Backstory is the different types of content our creatives produce. You may be expecting just stories, but there is a wealth of different types of content our teams produce. In-character travel journals, diary extracts, battle reports, in-world religious doctrines, magical potion recipes and more. We're not just stories.
+                One of the interesting concepts that we have at Backstory is the different types of content our creatives produce. You may be expecting just stories, but there is a wealth of different types of content our teams produce. In-character travel journals, diary extracts, battle reports, in-world religious doctrines, magical potion recipes and more. We&apos;re not just about stories.
               </p>
               <p className="mt-8">
                 One of the nifty features we include in our reading platform is the ability to arrange your library into collections and show any missing content you haven&apos;t purchased yet. This helps you avoid missing out on great content that you&apos;re interested in, that you might not have realised has been published.
