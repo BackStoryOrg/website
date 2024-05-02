@@ -65,7 +65,7 @@ export function CollectionsContent2() {
             </li>
             <li className="flex gap-x-3">
               <span>
-                <strong className="font-semibold text-gray-900">Anthology.</strong> Collections of this type are usually a grouping of content along a specific theme. It may be a collection of short stories that take place at a particular point in time of a world&apos;s history, or in a particular region of it.
+                <strong className="font-semibold text-gray-900">Anthology.</strong> Collections of this type are usually a grouping of content along a specific theme. It may be a collection of short stories that take place at a particular point in time of a world&apos;s history, or in a particular region of it. It might be a collection of short stories that are all batte re-tellings from famous battles in the world&apos;s history. There is always a theme.
               </span>
             </li>
             <li className="flex gap-x-3">
@@ -80,22 +80,16 @@ export function CollectionsContent2() {
             </li>
           </ul>
           <p className="mt-8">
-            Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor
-            fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac
-            adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.
+            We may, over time, introduce new collection types to help improve the clarity of what a specific collection is about. Feedback from our readers and thoughts from our creatives will always help guide us on this path.
           </p>
         </div>
         <div className="mt-16 max-w-2xl">
-          <h2 className="text-2xl font-bold tracking-tight text-gray-900">Everything you need to get up and running</h2>
+          <h2 className="text-2xl font-bold tracking-tight text-gray-900">If in doubt, try it out</h2>
           <p className="mt-6">
-            Purus morbi dignissim senectus mattis adipiscing. Amet, massa quam varius orci dapibus volutpat cras. In
-            amet eu ridiculus leo sodales cursus tristique. Tincidunt sed tempus ut viverra ridiculus non molestie.
-            Gravida quis fringilla amet eget dui tempor dignissim. Facilisis auctor venenatis varius nunc, congue erat
-            ac. Cras fermentum convallis quam.
+            When we publish content we aim to make it as easy as possible for readers to know what they are likely to expect before purchasing it. We do encourage you to operate on a policy of &apos;try it out&apos;.
           </p>
           <p className="mt-8">
-            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
-            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+            At the same time we are keenly aware that purchasing content obviously comes with a price, so we endeavour to keep our prices as low as possible to make your reading experience as expansive as possible.
           </p>
         </div>
       </div>
