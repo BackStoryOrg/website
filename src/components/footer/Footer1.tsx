@@ -16,6 +16,7 @@ const navigation = {
   ],
   company: [
     { name: 'About', href: 'https://www.backstory.ink/about', target: "_self" },
+    { name: 'Philosophy', href: 'https://www.backstory.ink/philosophy', target: "_self" },
     { name: 'Blog', href: 'https://backstory-app.medium.com/', target: "_blank" },
   ],
   faqs: [
