@@ -55,35 +55,27 @@ export function CollectionsContent2() {
         </p>
         <div className="mt-10 max-w-2xl">
           <p>
-            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
-            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
-            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
-            sed turpis id.
+            When we list a collection on our reading platform we always include its type as well. This helps readers know what kind of content they can expect right away and helps them make more intuitive purchasing choices. Helping you purchase the right content to enrich your reading life is always important to us.
           </p>
           <ul role="list" className="mt-8 max-w-xl space-y-8 text-gray-600">
             <li className="flex gap-x-3">
               <span>
-                <strong className="font-semibold text-gray-900">Data types.</strong> Lorem ipsum, dolor sit amet
-                consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate
-                blanditiis ratione.
+                <strong className="font-semibold text-gray-900">Franchise.</strong> When you purchase and read content from a franchise collection, you know you are going to get a macro storyline that continues through each piece of content. It might be a trilogy of novels, or a series of novellas, but you&apos;ll always have a continuous storyline.
               </span>
             </li>
             <li className="flex gap-x-3">
               <span>
-                <strong className="font-semibold text-gray-900">Loops.</strong> Anim aute id magna aliqua ad ad non
-                deserunt sunt. Qui irure qui lorem cupidatat commodo.
+                <strong className="font-semibold text-gray-900">Anthology.</strong> Collections of this type are usually a grouping of content along a specific theme. It may be a collection of short stories that take place at a particular point in time of a world&apos;s history, or in a particular region of it.
               </span>
             </li>
             <li className="flex gap-x-3">
               <span>
-                <strong className="font-semibold text-gray-900">Events.</strong> Ac tincidunt sapien vehicula erat
-                auctor pellentesque rhoncus. Et magna sit morbi lobortis.
+                <strong className="font-semibold text-gray-900">Experimental.</strong> Collections that are marked as experimental are usually a hotbed of testing. World teams are creative, and will try different things with their content to see how readers feel about it. You might expect to see short-stories in these kinds of collections that are test-beds for potential future franchises. 
               </span>
             </li>
             <li className="flex gap-x-3">
               <span>
-                <strong className="font-semibold text-gray-900">Events.</strong> Ac tincidunt sapien vehicula erat
-                auctor pellentesque rhoncus. Et magna sit morbi lobortis.
+                <strong className="font-semibold text-gray-900">Collection.</strong> If a world team decides that the content they are going to create and publish doesn&apos;t fit into other collection types they will use this type. Don&apos;t expect a continuous storyline, it will most likely be &apos;miscellaneous&apos;.
               </span>
             </li>
           </ul>
