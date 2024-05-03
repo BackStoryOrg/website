@@ -26,13 +26,12 @@ export function StoriesContent1() {
                 Stories are the content each of our worlds produces for you to read and consume. We sometimes interchange the word &apos;content&apos; for stories, but they mean the same thing. Our worlds have vast histories across entire planets with millions of events.
               </p>
               <p className="mt-8">
-                Stories are the window into our worlds.
+                Stories are the windows into our worlds. They serve as many things including, explanations of a world&apos;s history, elucidation of characters and their lives, interpretation of cultures and religions and a whole lot more.
               </p>
             </div>
             <div>
               <p>
                 
-
               </p>
               <p className="mt-8">
                 
