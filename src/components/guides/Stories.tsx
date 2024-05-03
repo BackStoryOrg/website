@@ -31,10 +31,10 @@ export function StoriesContent1() {
             </div>
             <div>
               <p>
-                
+                We organise stories into <a href="https://www.backstory.ink/guides/collections" className="text-base leading-7 text-indigo-600">collections</a> to help readers understand how they are tied together. We produce different types of collections to help make it easier to group different types of stories together.
               </p>
               <p className="mt-8">
-                
+                Our stories aren&apos;t just narratives with a beginning, middle and end, we include all kinds of other content as well. From diary extracts, magic potion recipes, to in-character travel journals and famous battle re-tellings. Our content types bring all kinds of creatives to our fictional worlds from authors to travel bloggers and everything in between.
               </p>
             </div>
           </div>
