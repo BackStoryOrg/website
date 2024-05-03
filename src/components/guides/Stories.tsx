@@ -51,11 +51,11 @@ export function StoriesContent2() {
         <p className="text-base font-semibold leading-7 text-indigo-600">Breakdown</p>
         <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Stories in parts</h1>
         <p className="mt-6 text-xl leading-8">
-          
+          Our stories aren&apos;t just text on a page, there is so much more to them. From innovations like teams, new genres, the development process and insightful readership analytics, Backstory is jam-packed with a whole new way of tackling the fiction industry.
         </p>
         <div className="mt-10 max-w-2xl">
           <p>
-            Our stories aren&apos;t just text on a page, there is so much more to them. From innovations like teams, new genres, the development process and insightful readership analytics, Backstory is jam-packed with a whole new way of tackling the fiction industry.
+            
           </p>
           <ul role="list" className="mt-8 max-w-xl space-y-8 text-gray-600">
             <li className="flex gap-x-3">
@@ -80,16 +80,7 @@ export function StoriesContent2() {
             </li>
           </ul>
           <p className="mt-8">
-            We may, over time, introduce new collection types to help improve the clarity of what a specific collection is about. Feedback from our readers and thoughts from our creatives will always help guide us on this path.
-          </p>
-        </div>
-        <div className="mt-16 max-w-2xl">
-          <h2 className="text-2xl font-bold tracking-tight text-gray-900">If in doubt, try it out</h2>
-          <p className="mt-6">
-            When we publish content we aim to make it as easy as possible for readers to know what they are likely to expect before purchasing it. At the same time we do encourage you to operate on a policy of &apos;try it out&apos;.
-          </p>
-          <p className="mt-8">
-            We are keenly aware that purchasing content obviously comes with a price, so we endeavour to keep our prices as low as possible to make your reading experience as expansive as possible.
+            Our novel approach to content types and creation will be a breath of fresh air to you. As a creative you&apos;re free to come up with all kinds of content and market test them with willing audiences. If you&apos;re not sure about the desirability of a franchise, test the market with a character discovery short story and see how it lands.
           </p>
         </div>
       </div>
