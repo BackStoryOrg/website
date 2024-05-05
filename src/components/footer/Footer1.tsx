@@ -6,7 +6,6 @@ const navigation = {
     { name: 'Management', href: 'https://www.backstory.ink/worlds/management', target: "_self" },
     { name: 'Writing', href: 'https://www.backstory.ink/worlds/writing', target: "_self" },
     { name: 'Building', href: 'https://www.backstory.ink/worlds/building', target: "_self" },
-    { name: 'Editing', href: 'https://www.backstory.ink/worlds/editing', target: "_self" },
     { name: 'Artwork', href: 'https://www.backstory.ink/worlds/artwork', target: "_self" },
   ],
   guides: [
