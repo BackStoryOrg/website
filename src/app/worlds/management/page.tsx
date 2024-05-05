@@ -1,7 +1,7 @@
 
 import { Footer1 } from "@/components/footer/Footer1";
 import { Header } from "@/components/header/Header";
-import { ManagementHeader, ManagementContent1 } from "@/components/world/Management";
+import { ManagementHeader, ManagementContent1, ManagementContent2, ManagementContent3, ManagementContent4 } from "@/components/world/Management";
 
 export default function WorldsManagement() {
   return (
@@ -10,6 +10,9 @@ export default function WorldsManagement() {
       <main>
         <ManagementHeader />
         <ManagementContent1 />
+        <ManagementContent2 />
+        <ManagementContent3 />
+        <ManagementContent4 />
       </main>
       <Footer1 />
     </>
