@@ -81,22 +81,22 @@ export function ManagementContent3() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
           <p className="text-base font-semibold leading-7 text-indigo-600">Putting creatives together</p>
-          <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Building sub-teams</h1>
+          <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Building story teams</h1>
           <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
             <div>
               <p>
-                
+                One of the most important roles of a world management team is finding out which of your creatives work well together. To succeed at this you really need to get to know your creatives individually and understand their idiosyncracies. Some creatives are very hands-on, while others are more aloof. Recognising this and utilising it successfully increases the probability of success.
               </p>
               <p className="mt-8">
-                
+                Each story that your world develops and eventually publishes requires a whole team. One person from each of the role groups fills a slot, and together they make magic. You will need a manager, an author, an editor, a builder, and sometimes an artist. Choosing the right combination of creatives can be crucial to success. Knowing who works well with whom is integral to a well run world.
               </p>
             </div>
             <div>
               <p>
-                
+                When producing content for readers you need to make sure you&apos;re covering as many verticals as possible. While your world&apos;s setting might be low fantasy, you will need creatives who understand how to create different kinds of genres of content. Your world will include romance, adventure, action, and crime just to name a few. Your team will need to include creatives suited to each of these genres.
               </p>
               <p className="mt-8">
-                
+                One of the nice features about our community is the ability for potential creatives to advertise themselves. As a manager you have access to creatives&apos; profiles from all across our community. You can reach out to prospective creatives you think are a good fit for your team. At the same time you can also allow potential creatives to apply to join your world&apos;s team and review their profiles that way.
               </p>
             </div>
           </div>
