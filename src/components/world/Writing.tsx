@@ -34,7 +34,7 @@ export function WritingContent1() {
                 When you work with Backstory as a writer, that&apos;s all you have to worry about. Our system is designed for creatives to work in teams to create, develop and publish content. As the author you just have to worry about the writing. Your colleagues worry about their roles and as a team you succeed. No more having to handle publishing, marketing or even world-building.
               </p>
               <p className="mt-8">
-                
+                Now you get to go back to your passion and really throw your heart and soul into it. No more having to flood social media with links to your work, or having to build email lists for a newsletter, or create courses to get people to buy your stories. It&apos;s back to good old writing, which is what you wanted to do originally right?
               </p>
             </div>
           </div>
