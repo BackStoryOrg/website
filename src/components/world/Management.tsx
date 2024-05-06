@@ -54,18 +54,18 @@ export function ManagementContent2() {
           <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
             <div>
               <p>
-                
+                One of your main concerns as a world manager is the types of content your team creates. A successful world will cover its bases across all 3 categories of verticals, which are <i>genre, plot,</i> and <i>concept</i>. The more verticals you hit, the more reader demographics you are likely to attract.
               </p>
               <p className="mt-8">
-                
+                Franchises are your big ticket items, and your world won&apos;t succeed without them. Franchises are macro-storylines that unfold over a series of content. This might be a trilogy of novels, or a series of novellas. How you decide to structure your franchises is completely up to you and your team.
               </p>
             </div>
             <div>
               <p>
-                
+                It&apos;s not just franchises you need to think about though. We encourage the creation and publication of all kinds of in-world content as well. From diary extracts to battle re-tellings and everything in between, your team&apos;s aim is always to keep your readers engaged and immersed. 
               </p>
               <p className="mt-8">
-                
+                A suggestion that we often make to world managers is to make use of the experimental collection type as early as possible. Launching straight into a franchise without a little bit of market research on the potential characters can lead to disappointment. Using short stories to research whether potential franchises seem viable is always a good idea.
               </p>
             </div>
           </div>
