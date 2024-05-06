@@ -62,10 +62,10 @@ export function ManagementContent2() {
             </div>
             <div>
               <p>
-                It&apos;s not just franchises you need to think about though. We encourage the creation and publication of all kinds of in-world content as well. From diary extracts to battle re-tellings and everything in between, your team&apos;s aim is always to keep your readers engaged and immersed. 
+                It&apos;s not just franchises you need to think about though. We encourage the creation and publication of all kinds of in-world content as well. From diary extracts to battle re-tellings and everything in between. Your team&apos;s aim is always to keep your readers engaged and immersed. To do that your world needs to help readers discover as many different facets of your world and its history as much as possible.
               </p>
               <p className="mt-8">
-                A suggestion that we often make to world managers is to make use of the experimental collection type as early as possible. Launching straight into a franchise without a little bit of market research on the potential characters can lead to disappointment. Using short stories to research whether potential franchises seem viable is always a good idea.
+                Our nifty world-data linking feature can help here. Backstory stories are designed to be separate in terms of storyline, but linked in terms of world-data. Help readers hop from one franchise to another through the creation of relevant in-world content. 
               </p>
             </div>
           </div>
@@ -111,8 +111,8 @@ export function ManagementContent4() {
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
-          <p className="text-base font-semibold leading-7 text-indigo-600">Managing your portfolio</p>
-          <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Organising content</h1>
+          <p className="text-base font-semibold leading-7 text-indigo-600">Keep them reading</p>
+          <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Retaining engagement</h1>
           <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
             <div>
               <p>
@@ -127,7 +127,7 @@ export function ManagementContent4() {
                 
               </p>
               <p className="mt-8">
-                
+                A suggestion that we often make to world managers is to make use of the experimental collection type as early as possible. Launching straight into a franchise without a little bit of market research on the potential characters can lead to disappointment. Using short stories to research whether potential franchises seem viable is always a good idea.
               </p>
             </div>
           </div>
