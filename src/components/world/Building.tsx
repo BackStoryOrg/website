@@ -58,12 +58,12 @@ export function BuildingContent2() {
                 One of the known complications of shared worlds is the possibility for bad continuity between storylines. With different teams of creatives working on different content, set at different times in a world&apos;s history, in different parts of the world, things can get confusing. We decided to solve this by having trained creatives who are essentially loremasters.
               </p>
               <p className="mt-8">
-                The builder role in our worlds is unique. Each of our stories has a builder on the team, and they have a very important role to play. 
+                The builder role in our worlds is unique. Each of our stories has a builder on the team, and they have a very important role to play. It is their job to make sure that the content of the story falls into line with the canon of the world. We&apos;ve made this as simple as possible by putting together all kinds of human-friendly ways to understand a world&apos;s canon once it has been created.
               </p>
             </div>
             <div>
               <p>
-                
+                Builders are often the go to people when pitching new content ideas within a world&apos;s team. They have intimate knowledge of the world, its history and lore, and will more than likely know where in the world&apos;s timeline such a storyline can fit.
               </p>
               <p className="mt-8">
                 
