@@ -54,7 +54,7 @@ export function WritingContent2() {
           <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
             <div>
               <p>
-                
+                The beauty of well structured shared worlds is the limitless opportunities you have as a writer. Backstory worlds are not built around single storylines, and this opens the door for creatives to develop amazing content that doesn&apos;t have to be tied together.
               </p>
               <p className="mt-8">
                 
@@ -65,7 +65,7 @@ export function WritingContent2() {
                 
               </p>
               <p className="mt-8">
-                
+                Did you know that readers are usually fans of the world, not the storyline? As
               </p>
             </div>
           </div>
