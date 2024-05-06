@@ -57,7 +57,7 @@ export function WritingContent2() {
                 The beauty of well structured shared worlds is the limitless opportunities you have as a writer. Backstory worlds are not built around single storylines, and this opens the door for creatives to develop amazing content that doesn&apos;t have to be tied together.
               </p>
               <p className="mt-8">
-                
+                Since our worlds don&apos;t hinge on a single storyline, they therefore aren&apos;t beholden to one. This creates a fantastic environment of experimentation, where creatives can play with ideas and concepts within their worlds to see how they work, without ruining a world and its IP.
               </p>
             </div>
             <div>
@@ -65,7 +65,7 @@ export function WritingContent2() {
                 
               </p>
               <p className="mt-8">
-                Did you know that readers are usually fans of the world, not the storyline? As
+                Did you know that readers are usually fans of the world, not the storyline? This makes them act like repeat customers for all content written and published about a single world. The success of other creatives in your world&apos;s team can indirectly lead to your own success and vice versa.
               </p>
             </div>
           </div>
