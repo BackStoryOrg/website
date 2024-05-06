@@ -75,3 +75,5 @@ export function BuildingContent2() {
     </div>
   )
 }
+
+
