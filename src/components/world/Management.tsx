@@ -108,31 +108,14 @@ export function ManagementContent3() {
 
 export function ManagementContent4() {
   return (
-    <div className="bg-white py-24 sm:py-32">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
-          <p className="text-base font-semibold leading-7 text-indigo-600">Keep them reading</p>
-          <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Retaining engagement</h1>
-          <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p>
-                
-              </p>
-              <p className="mt-8">
-                
-              </p>
-            </div>
-            <div>
-              <p>
-                
-              </p>
-              <p className="mt-8">
-                A suggestion that we often make to world managers is to make use of the experimental collection type as early as possible. Launching straight into a franchise without a little bit of market research on the potential characters can lead to disappointment. Using short stories to research whether potential franchises seem viable is always a good idea.
-              </p>
-            </div>
-          </div>
-        </div>
+    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
+      <div className="mx-auto max-w-2xl text-center">
+        <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Interested?</h2>
+        <p className="mt-6 text-lg leading-8 text-gray-600">
+          If you think you&apos;ve got what it takes to manage a Backstory world, the first step is to <a href="mailto:info@backstoryuniverse.com?subject=World Manager Request" className="text-base leading-7 text-indigo-600 underline">get in touch</a> with us.
+        </p>
       </div>
     </div>
   )
 }
+
