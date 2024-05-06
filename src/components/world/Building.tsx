@@ -66,7 +66,7 @@ export function BuildingContent2() {
                 Builders are often the go to people when pitching new content ideas within a world&apos;s team. They have intimate knowledge of the world, its history and lore, and will more than likely know where in the world&apos;s timeline such a storyline can fit.
               </p>
               <p className="mt-8">
-                
+                There are different ways that a world&apos;s management team can organise their builders. Some choose to give different builders different eras of world history within which to work. Others divide the world up by continents or regions and give each to a different builder. There is no right or wrong way to do it, so it&apos;s best to see what suits your team. We estimate that each world team should have between 8-10 builders.
               </p>
             </div>
           </div>
