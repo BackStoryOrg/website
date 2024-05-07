@@ -17,7 +17,7 @@ const worlds = [
   {
     id: 1,
     question: "How many worlds can Backstory have?",
-    answer: "There is no limit to the number of worlds we can create and host at Backstory. Our system is capable of handling hundreds of worlds very easily.",
+    answer: "There is no limit to the number of worlds we can create and host at Backstory. Our system is capable of handling thousands of worlds very easily.",
   },
   {
     id: 2,
@@ -43,6 +43,21 @@ const worlds = [
     id: 6,
     question: "Is there scope to affect world history creation?",
     answer: "Yes absolutely. We generally built world histories in chunks, such as 500 years at a time. Each time a new chunk is being created the world's team can play around with a whole bunch of settings to turn things on, off or manage the frequency of them.",
+  },
+  {
+    id: 7,
+    question: "Who handles the world history creation?",
+    answer: "Every Backstory world team has an Architect. The person holding this role is responsible for progressing the world's history. They work in concert with the wider team to make sure that they nudge the World Building Engine in the direction they want.",
+  },
+  {
+    id: 8,
+    question: "Can worlds crossover with each other?",
+    answer: "As a rule we don't do this. We like worlds to be individual and unique, and be able to stand on their own feet. Crossovers can lead to licensing nightmares if the two worlds are licensed to different third parties.",
+  },
+  {
+    id: 9,
+    question: "Can I suggest a new world?",
+    answer: "Yes, you can absolutely do that, and we encourage it. If you have a fantastic idea for a unique world that fits into our model please reach out to us directly. Even if you don't want to manage the prospective world and only want to be a creative don't hesitate to reach out.",
   },
 ];
 
@@ -72,10 +87,10 @@ export function FAQsWorld() {
 const content = [
   {
     id: 1,
-    question: "What's the best thing about Switzerland?",
+    question: "?",
     answer: "",
   },
-  // More questions...
+  
 ];
 
 export function FAQsContent() {
