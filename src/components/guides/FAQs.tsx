@@ -102,7 +102,7 @@ const content = [
   },
   {
     id: 4,
-    question: "Can we change this world's history to suit a potential storyline?",
+    question: "Can we change a world's history to suit a potential storyline?",
     answer: "As a rule we don't do this. Changing a world's history is complicated, as there are potential ripple effects. The beauty of our worlds is that the history is so long and all corners of the world are developed that your desired storyline will have a place somewhere.",
   },
   {
@@ -178,13 +178,28 @@ const publishing = [
   },
   {
     id: 5,
+    question: "Who handles the publishing of content?",
+    answer: "Every piece of content has a manager attached to the story team. It is the responsibility of the manager to go through the publishing process for each piece of content. So if you're the author, editor or builder, don't worry, you only have to handle your part.",
+  },
+  {
+    id: 6,
     question: "Can I publish content I've contributed to on other platforms?",
     answer: "The short answer is no. By working with Backstory you agree that content written about our worlds is exclusively published on our platform. Third-party reading platforms are not feature-rich enough to do our content justice.",
   },
   {
-    id: 6,
-    question: "?",
-    answer: "",
+    id: 7,
+    question: "How do I earn revenue?",
+    answer: "If you've contributed to content, when it sells you earn Backstory credits. The number of credits you earn is determined by the size of the contribution you have made. Credits are immediately deposited into your account, there's no need to wait a month or longer to receive them.",
+  },
+  {
+    id: 8,
+    question: "What can I do with my earned credits?",
+    answer: "You have two choices when it comes to the Backstory credits you've earned. You can use them to get your hands on content put out by other creatives from other worlds that take your fancy. The other option is to create a pay out to your bank account. We will convert your credits into a fiat currency and deposit it into your bank account.",
+  },
+  {
+    id: 9,
+    question: "How quickly do pay outs happen?",
+    answer: "When you initiate a pay out it happens automatically outside of our ecosystem. It can take a bit of time depending on where you and/or your bank account is in the world. You should have your pay out within 48 hours.",
   },
 ];
 
@@ -192,9 +207,9 @@ export function FAQsPublishing() {
   return (
     <div className="bg-white">
       <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8">
-        <h2 className="text-2xl font-bold leading-10 tracking-tight text-gray-900">Publishing</h2>
+        <h2 className="text-2xl font-bold leading-10 tracking-tight text-gray-900">Publishing & Sales</h2>
         <p className="mt-6 max-w-2xl text-base leading-7 text-gray-600">
-          Check out the following FAQs about our publishing system and structure.
+          Check out the following FAQs about our publishing and sales systems.
         </p>
         <div className="mt-20">
           <dl className="space-y-16 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-16 sm:space-y-0 lg:grid-cols-3 lg:gap-x-10">
@@ -214,10 +229,29 @@ export function FAQsPublishing() {
 const teams = [
   {
     id: 1,
-    question: "What's the best thing about Switzerland?",
-    answer: "",
+    question: "Do worlds have teams?",
+    answer: "Yes, teams are an intrinsic part of our worlds. Each world has its own team made up of managers and creatives. Together they are responsible for the creation and publishing of all content about their world.",
   },
-  // More questions...
+  {
+    id: 2,
+    question: "What roles are there in a world team?",
+    answer: "There are a number of different roles within a world team. If you join a world team as a creative you will hold one of the following roles; Author, Editor, Builder, Artist. Each role has its own unique characteristics and expectations.",
+  },
+  {
+    id: 3,
+    question: "Who manages Backstory worlds?",
+    answer: "Every world has a management team of 4 (sometimes 5) people. The roles are Administrator, Architect, Editor-in-Chief, Chief Author and sometimes Creative Director. Together they are responsible for managing their world and driving the direction of content.",
+  },
+  {
+    id: 4,
+    question: "Do I work individually on content?",
+    answer: "Nope. Every piece of content created is done by a story team together. One person from each of the world team roles fills a slot on the story's team and brings their expertise to bear. A story team will have a manager, an author, an editor, a builder and sometimes an artist.",
+  },
+  {
+    id: 5,
+    question: "Can I be on different world teams concurrently?",
+    answer: "Yes, you can. We don't have a problem with this at all, and in fact we do sometimes encourage it. Working on different worlds, even holding different roles, can be very rewarding.",
+  },
 ];
 
 export function FAQsTeams() {
