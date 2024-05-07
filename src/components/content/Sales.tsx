@@ -34,7 +34,7 @@ export function SalesContent1() {
                 Our credits system works in a slightly roundabout way so that we can maximise the revenue of our content contributors. It is important to us that creatives get paid what they deserve, and we want to make absolutely sure that this happens.
               </p>
               <p className="mt-8">
-                We don&apos;t sell credits on our reading platform. The reason for this is to maximise contributor revenue. If we sold credits on our reading platform we would legally be required to give 30% to third-party companies including Apple, Google and Amazon. This would reduce the amount of revenue creatives would receive.
+                We don&apos;t sell credits on our reading platform. The reason for this is to maximise contributor revenue. If we sold credits on our reading platform we would legally be required to give 30% to third-party companies including Apple, Google and Amazon. This would reduce the amount of revenue creatives would receive. Instead, we only sell credits via our community site that is outside the ecosystem of these third-parties.
               </p>
             </div>
           </div>
@@ -57,7 +57,7 @@ export function SalesContent2() {
                 Each story that gets published on our platform has a revenue distribution matrix attached to it. Essentially a price is set in credits for the content. We the platform take a percentage, and the rest is distributed amongst the creatives who have contributed to the content. The distribution is decided by the content&apos;s manager, and is determined by how much of a contribution the different creatives have made.
               </p>
               <p className="mt-8">
-                When a reader grabs a copy of the content the credits they use are deducted from their account. They are immediately transferred to the accounts of the content&apos;s contributors. No more having to wait for monthly or quarterly earnings for contributors.
+                When a reader grabs a copy of the content the credits they use are deducted from their account. They are immediately transferred to the accounts of the content&apos;s contributors. Creatives no longer have to wait for monthly or quarterly earnings like on other platforms.
               </p>
             </div>
             <div>
