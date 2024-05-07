@@ -22,6 +22,7 @@ const navigation = {
   content: [
     { name: 'Publishing', href: 'https://www.backstory.ink/content/publishing', target: "_self" },
     { name: 'Licensing', href: 'https://www.backstory.ink/content/licensing', target: "_self" },
+    { name: 'Sales', href: 'https://www.backstory.ink/content/sales', target: "_self" },
   //  { name: 'Press', href: 'https://www.backstory.ink/content/press', target: "_self" },
   ],
   
