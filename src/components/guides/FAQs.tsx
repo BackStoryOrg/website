@@ -122,13 +122,13 @@ const content = [
   },
   {
     id: 8,
-    question: "?",
-    answer: "",
+    question: "Can I write about saving the world?",
+    answer: "We don't do this. For a multiverse world to succeed, you can't give more importance to one franchise over another. Epic stories about good and evil can be regional and still exhibit a level of life and death experience.",
   },
   {
     id: 9,
-    question: "?",
-    answer: "",
+    question: "Do worlds have a macro-storyline?",
+    answer: "We try very hard to avoid this. Backstory worlds are full to the brim with history, cultures, religions and characters in all corners. There are no backwaters in a Backstory world. Franchises should stand on their own two feet and not require a macro or central storyline to succeed.",
   },
 ];
 
@@ -269,8 +269,8 @@ const teams = [
   },
   {
     id: 9,
-    question: "?",
-    answer: "",
+    question: "Can I hold multiple roles on a story team?",
+    answer: "We don't encourage this concept. We're all about collaboration, and it requires a lot of expertise to put together great content. Team members specialise in their roles for a reason.",
   },
 ];
 
