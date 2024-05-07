@@ -158,10 +158,34 @@ export function FAQsContent() {
 const publishing = [
   {
     id: 1,
-    question: "What's the best thing about Switzerland?",
+    question: "Where do you publish content?",
+    answer: "At Backstory we exclusively publish content about our worlds on our own reading platform. We have a number of reading features that aren't possible on third-party reading platforms.",
+  },
+  {
+    id: 2,
+    question: "What formats do you publish in?",
+    answer: "We use our own web format for publishing. There are intrinsic limitations with ePub and PDF formats, which make them unsuitable for publishing our content.",
+  },
+  {
+    id: 3,
+    question: "How long does it take to publish content?",
+    answer: "Once a story has been written and completed, the publishing process can be achieved in as little as 10 minutes. Once a story has gone through the publishing process all it takes is a single click to push it up onto our reading platform.",
+  },
+  {
+    id: 4,
+    question: "What does the publishing process involve?",
+    answer: "To make a story ready to be published there's a bit of metadata that needs to be attached to it. A sales blurb, cover art, keywords, and a revenue distribution matrix are all examples of this.",
+  },
+  {
+    id: 5,
+    question: "Can I publish content I've contributed to on other platforms?",
+    answer: "The short answer is no. By working with Backstory you agree that content written about our worlds is exclusively published on our platform. Third-party reading platforms are not feature-rich enough to do our content justice.",
+  },
+  {
+    id: 6,
+    question: "?",
     answer: "",
   },
-  // More questions...
 ];
 
 export function FAQsPublishing() {
