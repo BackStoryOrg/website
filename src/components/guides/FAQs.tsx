@@ -87,10 +87,39 @@ export function FAQsWorld() {
 const content = [
   {
     id: 1,
+    question: "Can I suggest new content?",
+    answer: "If you're working on one of our worlds you can absolutely suggest new content. We encourage it. Every world has its own pitching system where you can pitch storyline ideas and the team can openly discuss it.",
+  },
+  {
+    id: 2,
+    question: "Can I write whatever I want?",
+    answer: "Backstory worlds are not free-for-alls. Every world has a structured hierarchy with world managers at the top. Any new content proposed by a team member needs the final agreement of the world's management team.",
+  },
+  {
+    id: 3,
+    question: "Does content have to be stories?",
+    answer: "No, not at all. We have a concept called 'in-world documents', which are things like diary extracts, battle re-tellings, and culture exposés as travel journals. There is no limit to the types of content a world's team can create.",
+  },
+  {
+    id: 4,
+    question: "Can we change this world's history to suit a potential storyline?",
+    answer: "As a rule we don't do this. Changing a world's history is complicated, as there are potential ripple effects. The beauty of our worlds is that the history is so long and all corners of the world are developed that your desired storyline will have a place somewhere.",
+  },
+  {
+    id: 5,
+    question: "How do you organise content?",
+    answer: "We group stories into collections. These can be franchises, anthologies or other formats. A piece of content can only be published if it first belongs to a collection.",
+  },
+  {
+    id: 6,
+    question: "What happens if I start a story but can't finish it?",
+    answer: "If you've started working on a story and have to drop out your contribution will be noted and you could still take part in the revenue sharing opportunity.",
+  },
+  {
+    id: 7,
     question: "?",
     answer: "",
   },
-  
 ];
 
 export function FAQsContent() {
