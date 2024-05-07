@@ -57,12 +57,12 @@ export function SalesContent2() {
                 Each story that gets published on our platform has a revenue distribution matrix attached to it. Essentially a price is set in credits for the content. We the platform take a percentage, and the rest is distributed amongst the creatives who have contributed to the content. The distribution is decided by the content&apos;s manager, and is determined by how much of a contribution the different creatives have made.
               </p>
               <p className="mt-8">
-                When a reader grabs a copy of the content the credits they use are deducted from their account. They are immediately transferred to the accounts of the content&apos;s contributors. Creatives no longer have to wait for monthly or quarterly earnings like on other platforms.
+                When a reader grabs a copy of the content the credits they use are deducted from their account. These credits are immediately transferred to the accounts of the content&apos;s contributors according to the distribution matrix. Creatives no longer have to wait for monthly or quarterly earnings like on other platforms.
               </p>
             </div>
             <div>
               <p>
-                
+                Creatives who receive credits for their work are free to use them how they wish. They can be used to grab other content that they want to read or see, or they can be paid out as fiat currency into an attached bank account. Our pay outs system is manually handled by creatives themselves. A pay out can be made at any time for any amount over a minimum threshold. Pay outs into your bank account might take up to 48 hours.
               </p>
               <p className="mt-8">
                 
