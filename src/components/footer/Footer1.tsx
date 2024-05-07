@@ -12,7 +12,7 @@ const navigation = {
     { name: 'Collections', href: 'https://www.backstory.ink/guides/collections', target: "_self" },
     { name: 'Stories', href: 'https://www.backstory.ink/guides/stories', target: "_self" },
     { name: 'Teams', href: 'https://www.backstory.ink/guides/teams', target: "_self" },
-  //  { name: 'FAQs', href: 'https://www.backstory.ink/guides/faqs', target: "_self" },
+    { name: 'FAQs', href: 'https://www.backstory.ink/guides/faqs', target: "_self" },
   ],
   company: [
     { name: 'About', href: 'https://www.backstory.ink/about', target: "_self" },

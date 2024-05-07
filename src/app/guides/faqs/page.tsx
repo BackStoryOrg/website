@@ -1,7 +1,7 @@
 
 import { Footer1 } from "@/components/footer/Footer1";
 import { Header } from "@/components/header/Header";
-import { FAQsHeader } from "@/components/guides/FAQs";
+import { FAQsHeader, FAQsWorld, FAQsContent, FAQsPublishing, FAQsTeams } from "@/components/guides/FAQs";
 
 export default function GuidesFAQs() {
   return (
@@ -9,6 +9,10 @@ export default function GuidesFAQs() {
       <Header />
       <main>
         <FAQsHeader />
+        <FAQsWorld />
+        <FAQsContent />
+        <FAQsPublishing />
+        <FAQsTeams />
       </main>
       <Footer1 />
     </>
