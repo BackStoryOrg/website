@@ -16,10 +16,34 @@ export function FAQsHeader() {
 const worlds = [
   {
     id: 1,
-    question: "What's the best thing about Switzerland?",
-    answer: "",
+    question: "How many worlds can Backstory have?",
+    answer: "There is no limit to the number of worlds we can create and host at Backstory. Our system is capable of handling hundreds of worlds very easily.",
   },
-  // More questions...
+  {
+    id: 2,
+    question: "How are Backstory worlds different?",
+    answer: "Each Backstory world has its own setting. It might be fantasy or sci-fi. Inside of that we differentiate between sub-settings such as low fantasy and high fantasy.",
+  },
+  {
+    id: 3,
+    question: "How else do you differentiate worlds?",
+    answer: "Beyond each world's setting we also apply rules to them. For example we may have two worlds that are both low fantasy settings, but in one of them the deities are real and get involved, while in the other they are only anthropomorphic.",
+  },
+  {
+    id: 4,
+    question: "Can I have my own world?",
+    answer: "Unfortunately we don't build worlds for individuals because we're all about collaboration and teamwork. But there is nothing stopping you from joining a world's team or even working with us to start a new one.",
+  },
+  {
+    id: 5,
+    question: "Do we have to create the world's history ourselves?",
+    answer: "Nope, we handle that for you, and it can happen really quickly. Using our World Building Engine we estimate that we can create 10,000 years of intricate world history in about a week.",
+  },
+  {
+    id: 6,
+    question: "Is there scope to affect world history creation?",
+    answer: "Yes absolutely. We generally built world histories in chunks, such as 500 years at a time. Each time a new chunk is being created the world's team can play around with a whole bunch of settings to turn things on, off or manage the frequency of them.",
+  },
 ];
 
 export function FAQsWorld() {
