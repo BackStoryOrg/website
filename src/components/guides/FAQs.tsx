@@ -252,6 +252,26 @@ const teams = [
     question: "Can I be on different world teams concurrently?",
     answer: "Yes, you can. We don't have a problem with this at all, and in fact we do sometimes encourage it. Working on different worlds, even holding different roles, can be very rewarding.",
   },
+  {
+    id: 6,
+    question: "Can I change roles in a world team?",
+    answer: "Yes you can. You may start out as an editor, but decide that you want to try your hand at being an author. To achieve this you would speak to your world's management team and get their go ahead. They will update your account and you will be good to go.",
+  },
+  {
+    id: 7,
+    question: "What happens if I leave a world team?",
+    answer: "If you decide to stop contributing to a world's content you can leave the team. Any contributions you have already made that have been published will still earn you Backstory credits as per usual.",
+  },
+  {
+    id: 8,
+    question: "Can I contribute to content if I am a world manager?",
+    answer: "You can definitely contribute to content as a world manager, and there may be times where you will have to. However, the role of the management team is important to the success of the world, and that can't be overlooked.",
+  },
+  {
+    id: 9,
+    question: "?",
+    answer: "",
+  },
 ];
 
 export function FAQsTeams() {
