@@ -65,7 +65,7 @@ export function SalesContent2() {
                 Creatives who receive credits for their work are free to use them how they wish. They can be used to grab other content that they want to read or see, or they can be paid out as fiat currency into an attached bank account. Our pay outs system is manually handled by creatives themselves. A pay out can be made at any time for any amount over a minimum threshold. Pay outs into your bank account might take up to 48 hours.
               </p>
               <p className="mt-8">
-                
+                We keep track of all credit transactions on our platform. As a reader you can look back through all of your credit purchases, and your content redemptions. As a creative you can do the same, but you can also see all of your credit earnings and your pay outs. We make a point of making sure you can keep track of your financials with us whether you&apos;re a reader, a creative or both.
               </p>
             </div>
           </div>
