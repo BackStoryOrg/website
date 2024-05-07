@@ -98,7 +98,7 @@ const content = [
   {
     id: 3,
     question: "Does content have to be stories?",
-    answer: "No, not at all. We have a concept called 'in-world documents', which are things like diary extracts, battle re-tellings, and culture exposés as travel journals. There is no limit to the types of content a world's team can create.",
+    answer: "No, not at all. We have a concept called 'in-world documents', which are things like diary extracts, battle re-tellings, culture exposés as travel journals and more. There is no limit to the types of content a world's team can create.",
   },
   {
     id: 4,
@@ -117,6 +117,16 @@ const content = [
   },
   {
     id: 7,
+    question: "If I start work on a franchise do I get to finish it?",
+    answer: "When it comes to franchises we like to keep story teams together if they work well and like each other. We believe that as creatives you can really infuse your spirit into franchises if you get to start and finish them.",
+  },
+  {
+    id: 8,
+    question: "?",
+    answer: "",
+  },
+  {
+    id: 9,
     question: "?",
     answer: "",
   },
