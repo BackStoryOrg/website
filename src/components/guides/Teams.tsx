@@ -1,7 +1,7 @@
 
 export function TeamsHeader() {
   return (
-    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div className="bg-white px-6 py-14 sm:py-16 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
         <p className="text-base font-semibold leading-7 text-indigo-600">Together you will succeed</p>
         <h2 className="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Teams</h2>
@@ -15,7 +15,7 @@ export function TeamsHeader() {
 
 export function TeamsContent1() {
   return (
-    <div className="bg-white py-24 sm:py-32">
+    <div className="bg-white py-14 sm:py-16">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
           <p className="text-base font-semibold leading-7 text-indigo-600">Teams and more teams</p>
@@ -48,7 +48,7 @@ export function TeamsContent1() {
 
 export function TeamsContent2() {
   return (
-    <div className="bg-white px-6 py-32 lg:px-8">
+    <div className="bg-white px-6 py-14 lg:px-8">
       <div className="mx-auto max-w-3xl text-base leading-7 text-gray-700">
         <p className="text-base font-semibold leading-7 text-indigo-600">Breakdown</p>
         <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">World team roles</h1>

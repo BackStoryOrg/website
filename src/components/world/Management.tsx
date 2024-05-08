@@ -1,7 +1,7 @@
 
 export function ManagementHeader() {
   return (
-    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div className="bg-white px-6 py-14 sm:py-16 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
         <p className="text-base font-semibold leading-7 text-indigo-600">Organisation and orchestration</p>
         <h2 className="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Management</h2>
@@ -15,7 +15,7 @@ export function ManagementHeader() {
 
 export function ManagementContent1() {
   return (
-    <div className="bg-white py-24 sm:py-32">
+    <div className="bg-white py-14 sm:py-16">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
           <p className="text-base font-semibold leading-7 text-indigo-600">Running a team</p>
@@ -46,7 +46,7 @@ export function ManagementContent1() {
 
 export function ManagementContent2() {
   return (
-    <div className="bg-white py-24 sm:py-32">
+    <div className="bg-white py-14 sm:py-16">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
           <p className="text-base font-semibold leading-7 text-indigo-600">not just franchises</p>
@@ -77,7 +77,7 @@ export function ManagementContent2() {
 
 export function ManagementContent3() {
   return (
-    <div className="bg-white py-24 sm:py-32">
+    <div className="bg-white py-14 sm:py-16">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
           <p className="text-base font-semibold leading-7 text-indigo-600">Putting creatives together</p>
@@ -108,7 +108,7 @@ export function ManagementContent3() {
 
 export function ManagementContent4() {
   return (
-    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div className="bg-white px-6 py-14 sm:py-16 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
         <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Interested?</h2>
         <p className="mt-6 text-lg leading-8 text-gray-600">

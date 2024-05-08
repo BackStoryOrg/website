@@ -5,7 +5,7 @@ import aboutHowImage from "@/images/aboutHow.jpg";
 
 export function AboutHeader() {
   return (
-    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div className="bg-white px-6 py-14 sm:py-16 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
         <p className="text-base font-semibold leading-7 text-indigo-600">The what, why, and how of Backstory</p>
         <h2 className="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">About</h2>
@@ -19,7 +19,7 @@ export function AboutHeader() {
 
 export function AboutWhat() {
   return (
-    <div className="relative isolate overflow-hidden bg-white py-24 sm:py-32">
+    <div className="relative isolate overflow-hidden bg-white py-14 sm:py-16">
       <div
         className="absolute -top-80 left-[max(6rem,33%)] -z-10 transform-gpu blur-3xl sm:left-1/2 md:top-20 lg:ml-20 xl:top-3 xl:ml-56"
         aria-hidden="true"

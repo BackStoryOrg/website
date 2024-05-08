@@ -1,7 +1,7 @@
 
 export function ArtworkHeader() {
   return (
-    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div className="bg-white px-6 py-14 sm:py-16 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
         <p className="text-base font-semibold leading-7 text-indigo-600">A thousands words at a time</p>
         <h2 className="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Artwork</h2>
@@ -15,7 +15,7 @@ export function ArtworkHeader() {
 
 export function ArtworkContent1() {
   return (
-    <div className="bg-white py-24 sm:py-32">
+    <div className="bg-white py-14 sm:py-16">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
           <p className="text-base font-semibold leading-7 text-indigo-600">Covers and more</p>
@@ -46,7 +46,7 @@ export function ArtworkContent1() {
 
 export function ArtworkContent2() {
   return (
-    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div className="bg-white px-6 py-14 sm:py-16 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
         <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Got an idea?</h2>
         <p className="mt-6 text-lg leading-8 text-gray-600">
