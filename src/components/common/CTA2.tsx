@@ -37,6 +37,7 @@ export function CallToAction2() {
               <option value="author">Author</option>
               <option value="builder">Builder</option>
               <option value="editor">Editor</option>
+              <option value="artist">Artist</option>
             </select>
             <button
               className="h-12 min-w-[8rem] rounded-lg border-2 border-emerald-600 bg-emerald-500 text-emerald-50 shadow-lg hover:bg-emerald-600 focus:outline-none focus:ring focus:ring-emerald-600"
