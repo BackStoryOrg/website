@@ -106,7 +106,7 @@ export function Footer1() {
             </a>
           </div>
           <p className="mt-8 text-xs leading-5 text-gray-500 md:order-1 md:mt-0">
-            Copyright &copy; {new Date().getFullYear()} BackStory.ink. All rights reserved.
+            Copyright &copy; {new Date().getFullYear()} BackStory.ink. All rights reserved. | <a href="https://www.backstory.ink/accreditation" className="text-gray-400 hover:text-gray-500">Accreditation</a>
           </p>
         </div>
       </div>

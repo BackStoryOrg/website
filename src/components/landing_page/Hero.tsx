@@ -135,10 +135,3 @@ export function Hero() {
   );
 }
 
-/*
-  Photo by <a href="https://unsplash.com/@aleskrivec?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ales Krivec</a> on <a href="https://unsplash.com/photos/three-brown-paddle-boats-on-body-of-water-h4ub7SSYxm0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  Photo by <a href="https://unsplash.com/@kerber?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marko Blažević</a> on <a href="https://unsplash.com/photos/yellow-pillar-candle-in-black-lantern-S7mAngnWV1A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  Photo by <a href="https://unsplash.com/@cantt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">cant</a> on <a href="https://unsplash.com/photos/white-clouds-hovering-above-grey-castle-Ipv_MNTzcQI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  Photo by <a href="https://unsplash.com/@linussandvide?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Linus Sandvide</a> on <a href="https://unsplash.com/photos/person-holding-torch-in-building-interior-5DIFvVwe6wk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  Photo by <a href="https://unsplash.com/@iamromankraft?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Roman Kraft</a> on <a href="https://unsplash.com/photos/vintage-books-collection-X1exjxxBho4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-*/
