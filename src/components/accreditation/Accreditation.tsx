@@ -3,7 +3,7 @@ export function AccreditationHeader() {
   return (
     <div className="bg-white px-6 py-14 sm:py-16 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
-        <p className="text-base font-semibold leading-7 text-indigo-600">Credit where credit's due</p>
+        <p className="text-base font-semibold leading-7 text-indigo-600">Credit where credit&apos;s due</p>
         <h2 className="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Licensing</h2>
         <p className="mt-6 text-lg leading-8 text-gray-600">
           We utilise a number of images on our website that come from fantastic creatives in the Unsplash community.
