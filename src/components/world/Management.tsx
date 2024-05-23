@@ -112,7 +112,7 @@ export function ManagementContent4() {
       <div className="mx-auto max-w-2xl text-center">
         <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Interested?</h2>
         <p className="mt-6 text-lg leading-8 text-gray-600">
-          If you think you&apos;ve got what it takes to manage a Backstory world, the first step is to <a href="mailto:info@backstoryuniverse.com?subject=World Manager Request" className="text-base leading-7 text-indigo-600 underline">get in touch</a> with us.
+          If you think you&apos;ve got what it takes to manage a Backstory world, the first step is to <a href="mailto:d.thomas@backstoryuniverse.com?subject=World Manager Request" className="text-base leading-7 text-indigo-600 underline">get in touch</a> with us.
         </p>
       </div>
     </div>

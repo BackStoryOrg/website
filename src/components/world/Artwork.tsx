@@ -50,7 +50,7 @@ export function ArtworkContent2() {
       <div className="mx-auto max-w-2xl text-center">
         <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Got an idea?</h2>
         <p className="mt-6 text-lg leading-8 text-gray-600">
-          We&apos;re currently exploring how we can better integrate artists and artwork into our platform. If you have an idea the first step is to <a href="mailto:info@backstoryuniverse.com?subject=Artwork Idea" className="text-base leading-7 text-indigo-600 underline">get in touch</a> with us.
+          We&apos;re currently exploring how we can better integrate artists and artwork into our platform. If you have an idea the first step is to <a href="mailto:d.thomas@backstoryuniverse.com?subject=Artwork Idea" className="text-base leading-7 text-indigo-600 underline">get in touch</a> with us.
         </p>
       </div>
     </div>

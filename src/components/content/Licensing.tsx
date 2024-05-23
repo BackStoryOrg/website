@@ -50,7 +50,7 @@ export function LicensingContent2() {
       <div className="mx-auto max-w-2xl text-center">
         <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Interested?</h2>
         <p className="mt-6 text-lg leading-8 text-gray-600">
-          If you&apos;re interested in licensing Backstory content for your business feel free to <a href="mailto:info@backstoryuniverse.com?subject=Licensing Request" className="text-base leading-7 text-indigo-600 underline">get in contact</a> with us and talk through your idea.
+          If you&apos;re interested in licensing Backstory content for your business feel free to <a href="mailto:c.west@backstoryuniverse.com?subject=Licensing Request" className="text-base leading-7 text-indigo-600 underline">get in contact</a> with us and talk through your idea.
         </p>
       </div>
     </div>
