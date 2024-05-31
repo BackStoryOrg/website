@@ -31,7 +31,7 @@ export function WhatHeader() {
         <div className="mx-auto max-w-2xl lg:text-center">
           <h2 className="text-base font-semibold leading-7 text-indigo-400">The future of fiction</h2>
           <p className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
-            We build multiverses
+            We build multi-franchise worlds
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-300">
             At Backstory we use our bespoke World Building Engine to craft vast and yet intricate fictional worlds and their histories <b>in days</b>. That&apos;s thousands of years of fascinating history across entire worlds ready to be written about.
