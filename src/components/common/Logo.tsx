@@ -7,8 +7,8 @@ export function Logo(props: React.ComponentPropsWithoutRef<"img">) {
       className={props.className}
       src={logoImage}
       alt=""
-      width={300}
-      height={64}
+      width={469}
+      height={100}
       unoptimized
     />
   );
