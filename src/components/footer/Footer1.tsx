@@ -37,7 +37,7 @@ export function Footer1() {
       </h2>
       <div className="mx-auto max-w-7xl px-6 pb-8 pt-16 sm:pt-24 lg:px-8 lg:pt-32">
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
-          <Link href="https://www.backstory.ink" aria-label="Home">
+          <Link href="https://www.backstoryuniverse.com" aria-label="Home">
             <Logo className="mx-auto h-10 w-auto" />
           </Link>
           <div className="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
@@ -106,7 +106,7 @@ export function Footer1() {
             </a>
           </div>
           <p className="mt-8 text-xs leading-5 text-gray-500 md:order-1 md:mt-0">
-            Copyright &copy; {new Date().getFullYear()} BackStory.ink. All rights reserved. | <a href="https://www.backstory.ink/accreditation" className="text-gray-400 hover:text-gray-500">Accreditation</a>
+            Copyright &copy; {new Date().getFullYear()} BackStory. All rights reserved. | <a href="https://www.backstoryuniverse.com/accreditation" className="text-gray-400 hover:text-gray-500">Accreditation</a>
           </p>
         </div>
       </div>
