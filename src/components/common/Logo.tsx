@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logoImage from "@/images/logo50.png";
+import logoImage from "@/images/LogoTest.png";
 
 export function Logo(props: React.ComponentPropsWithoutRef<"img">) {
   return (
@@ -7,8 +7,8 @@ export function Logo(props: React.ComponentPropsWithoutRef<"img">) {
       className={props.className}
       src={logoImage}
       alt=""
-      width={83}
-      height={50}
+      width={300}
+      height={64}
       unoptimized
     />
   );
