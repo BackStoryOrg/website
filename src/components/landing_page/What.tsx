@@ -24,9 +24,28 @@ const features = [
   },
 ]
 
+export function WhatVideo() {
+  return (
+    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8" id="WhatVideo">
+      <div className="mx-auto max-w-2xl text-center">
+        <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Breakdown</h2>
+        <div className="mt-6">
+          <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+            <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+              src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGIGZ1beyI&#x2F;Yr8pZjCwVmQK_GD90fEJKQ&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export function WhatHeader() {
   return (
-    <div className="bg-gray-900 py-24 sm:py-32" id="WhatHeader">
+    <div className="bg-gray-900 py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:text-center">
           <h2 className="text-base font-semibold leading-7 text-indigo-400">The future of fiction</h2>
