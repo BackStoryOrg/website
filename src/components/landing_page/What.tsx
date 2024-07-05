@@ -28,11 +28,38 @@ export default function WhatVideo() {
   return (
     <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
-        <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Support center</h2>
-        <p className="mt-6 text-lg leading-8 text-gray-600">
-          Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-          fugiat veniam occaecat fugiat aliqua.
-        </p>
+        <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Breakdown</h2>
+        <div
+          style={{
+            position: "relative",
+            width: "100%",
+            height: 0,
+            paddingTop: "56.2500%",
+            paddingBottom: 0,
+            boxShadow: "0 2px 8px 0 rgba(63,69,81,0.16)",
+            marginTop: "1.6em",
+            marginBottom: "0.9em",
+            overflow: "hidden",
+            borderRadius: 8,
+            willChange: "transform"
+          }}
+        >
+          <iframe
+            style={{
+              position: "absolute",
+              width: "100%",
+              height: "100%",
+              top: 0,
+              left: 0,
+              border: "none",
+              padding: 0,
+              margin: 0
+            }}
+            src="https://www.canva.com/design/DAGIGZ1beyI/44FA8ES-yBoDMdZACvasyQ/watch?embed"
+            allowFullScreen="true"
+          ></iframe>
+        </div>
+
       </div>
     </div>
   )
