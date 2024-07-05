@@ -24,23 +24,6 @@ const features = [
   },
 ]
 
-export function WhatVideo() {
-  return (
-    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8" id="WhatVideo">
-      <div className="mx-auto max-w-2xl text-center">
-        <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Breakdown</h2>
-        <div className="mt-6">
-          <iframe 
-            src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGIGZ1beyI&#x2F;44FA8ES-yBoDMdZACvasyQ&#x2F;watch?embed" 
-            allowFullScreen=true
-          >
-          </iframe>
-        </div>
-      </div>
-    </div>
-  )
-}
-
 export function WhatHeader() {
   return (
     <div className="bg-gray-900 py-24 sm:py-32">
