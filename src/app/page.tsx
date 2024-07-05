@@ -5,7 +5,7 @@ import { Faqs } from "@/components/faqs_page/Faqs";
 import { Footer1 } from "@/components/footer/Footer1";
 import { Header } from "@/components/header/Header";
 import { Hero } from "@/components/landing_page/Hero";
-import { WhatVideo, WhatHeader, WhatContent } from "@/components/landing_page/What";
+import { WhatHeader, WhatContent } from "@/components/landing_page/What";
 
 export default function Home() {
   return (
@@ -13,7 +13,6 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
-        <WhatVideo />
         <WhatHeader />
         <WhatContent />
         <CallToAction2 />
