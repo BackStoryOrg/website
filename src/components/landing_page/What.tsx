@@ -56,7 +56,7 @@ export default function WhatVideo() {
               margin: 0
             }}
             src="https://www.canva.com/design/DAGIGZ1beyI/44FA8ES-yBoDMdZACvasyQ/watch?embed"
-            allowFullScreen="true"
+            allowFullScreen=true
           ></iframe>
         </div>
 
