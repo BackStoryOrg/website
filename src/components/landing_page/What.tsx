@@ -30,7 +30,7 @@ export function WhatVideo() {
       <div className="mx-auto max-w-2xl text-center">
         <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Breakdown</h2>
         <div className="mt-6">
-          <a href="https://www.canva.com/design/DAGIGZ1beyI/Yr8pZjCwVmQK_GD90fEJKQ/watch"></a>
+          <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGIGZ1beyI&#x2F;44FA8ES-yBoDMdZACvasyQ&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
         </div>
       </div>
     </div>
