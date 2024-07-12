@@ -132,7 +132,7 @@ export function WhatContent() {
                 </li>
                 <li className="flex gap-x-3">
                   <span>
-                    <strong className="font-semibold text-gray-900">Teamwork.</strong> For each story being developed and written, a team of 4 creatives work together, each filling a specific role. The author, editor, builder and manager work collaboratively to create success.
+                    <strong className="font-semibold text-gray-900">Teamwork.</strong> For each story being developed and written, a team of 5 creatives work together, each filling a specific role. The author, editor, builder, artist and manager work collaboratively to create success.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
