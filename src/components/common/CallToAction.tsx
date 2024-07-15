@@ -21,7 +21,7 @@ export function CallToAction() {
             Interested?
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            Reach out to us with your email and preferred role and we'll get in touch with you to answer your questions
+            Reach out to us with your email and preferred role and we&apos;ll get in touch with you to answer your questions
           </p>
           <hr className="my-3" />
           <form
