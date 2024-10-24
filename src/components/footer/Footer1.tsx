@@ -4,26 +4,26 @@ import Link from "next/link";
 
 const navigation = {
   worlds: [
-    { name: 'Management', href: 'https://www.backstory.ink/worlds/management', target: "_self" },
-    { name: 'Writing', href: 'https://www.backstory.ink/worlds/writing', target: "_self" },
-    { name: 'Building', href: 'https://www.backstory.ink/worlds/building', target: "_self" },
-    { name: 'Artwork', href: 'https://www.backstory.ink/worlds/artwork', target: "_self" },
+    { name: 'Management', href: 'https://www.backstoryuniverse.com/worlds/management', target: "_self" },
+    { name: 'Writing', href: 'https://www.backstoryuniverse.com/worlds/writing', target: "_self" },
+    { name: 'Building', href: 'https://www.backstoryuniverse.com/worlds/building', target: "_self" },
+    { name: 'Artwork', href: 'https://www.backstoryuniverse.com/worlds/artwork', target: "_self" },
   ],
   guides: [
-    { name: 'Collections', href: 'https://www.backstory.ink/guides/collections', target: "_self" },
-    { name: 'Stories', href: 'https://www.backstory.ink/guides/stories', target: "_self" },
-    { name: 'Teams', href: 'https://www.backstory.ink/guides/teams', target: "_self" },
-    { name: 'FAQs', href: 'https://www.backstory.ink/guides/faqs', target: "_self" },
+    { name: 'Collections', href: 'https://www.backstoryuniverse.com/guides/collections', target: "_self" },
+    { name: 'Stories', href: 'https://www.backstoryuniverse.com/guides/stories', target: "_self" },
+    { name: 'Teams', href: 'https://www.backstoryuniverse.com/guides/teams', target: "_self" },
+    { name: 'FAQs', href: 'https://www.backstoryuniverse.com/guides/faqs', target: "_self" },
   ],
   company: [
-    { name: 'About', href: 'https://www.backstory.ink/about', target: "_self" },
-    { name: 'Philosophy', href: 'https://www.backstory.ink/philosophy', target: "_self" },
+    { name: 'About', href: 'https://www.backstoryuniverse.com/about', target: "_self" },
+    { name: 'Philosophy', href: 'https://www.backstoryuniverse.com/philosophy', target: "_self" },
     { name: 'Blog', href: 'https://backstory-app.medium.com/', target: "_blank" },
   ],
   content: [
-    { name: 'Publishing', href: 'https://www.backstory.ink/content/publishing', target: "_self" },
-    { name: 'Licensing', href: 'https://www.backstory.ink/content/licensing', target: "_self" },
-    { name: 'Sales', href: 'https://www.backstory.ink/content/sales', target: "_self" },
+    { name: 'Publishing', href: 'https://www.backstoryuniverse.com/content/publishing', target: "_self" },
+    { name: 'Licensing', href: 'https://www.backstoryuniverse.com/content/licensing', target: "_self" },
+    { name: 'Sales', href: 'https://www.backstoryuniverse.com/content/sales', target: "_self" },
   //  { name: 'Press', href: 'https://www.backstory.ink/content/press', target: "_self" },
   ],
   
